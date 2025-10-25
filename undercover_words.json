@@ -68,5 +68,7320 @@
     "undercover_word": "犀牛",
     "category": "动物",
     "difficulty": 1
+  },
+  {
+    "id": 11,
+    "normal_word": "当场出丑",
+    "undercover_word": "当场出彩",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "normal_word": "油条",
+    "undercover_word": "可可",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "normal_word": "音乐会",
+    "undercover_word": "倾世皇妃",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "normal_word": "酸菜鱼",
+    "undercover_word": "雪碧",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 15,
+    "normal_word": "轮滑",
+    "undercover_word": "火箭",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "normal_word": "电扇",
+    "undercover_word": "枕头",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "normal_word": "记者",
+    "undercover_word": "保安",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 18,
+    "normal_word": "太阳能",
+    "undercover_word": "四面楚歌",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 19,
+    "normal_word": "卑躬屈节",
+    "undercover_word": "不顾一切",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 20,
+    "normal_word": "医生",
+    "undercover_word": "教授",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 21,
+    "normal_word": "网约车",
+    "undercover_word": "碰碰车",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 22,
+    "normal_word": "保安",
+    "undercover_word": "甜点师",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 23,
+    "normal_word": "轻轨",
+    "undercover_word": "地铁",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "normal_word": "冲浪",
+    "undercover_word": "空手道",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "normal_word": "闪婚",
+    "undercover_word": "十面埋伏",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 26,
+    "normal_word": "裸婚",
+    "undercover_word": "脉搏",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 27,
+    "normal_word": "始终不渝",
+    "undercover_word": "坚贞不屈",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "normal_word": "完美无缺",
+    "undercover_word": "阴阳怪气",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 29,
+    "normal_word": "不相上下",
+    "undercover_word": "不差上下",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "normal_word": "灯笼",
+    "undercover_word": "手电筒",
+    "category": "日常用品",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "normal_word": "轻轨",
+    "undercover_word": "自行车",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "normal_word": "手机",
+    "undercover_word": "手表",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 33,
+    "normal_word": "不相上下",
+    "undercover_word": "伯仲之间",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "normal_word": "投影仪",
+    "undercover_word": "毛巾",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 35,
+    "normal_word": "无理取闹",
+    "undercover_word": "扬长而去",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 36,
+    "normal_word": "花样男子",
+    "undercover_word": "甄嬛传",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 37,
+    "normal_word": "剑道",
+    "undercover_word": "冲浪",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 38,
+    "normal_word": "空调",
+    "undercover_word": "电扇",
+    "category": "日常用品",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "normal_word": "安贫乐道",
+    "undercover_word": "安贫守道",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "normal_word": "蛇",
+    "undercover_word": "老虎",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 41,
+    "normal_word": "播音员",
+    "undercover_word": "音乐家",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 42,
+    "normal_word": "精疲力竭",
+    "undercover_word": "名垂青史",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 43,
+    "normal_word": "地铁",
+    "undercover_word": "汽车",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 44,
+    "normal_word": "十面埋伏",
+    "undercover_word": "风能",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "normal_word": "空前绝后",
+    "undercover_word": "史无前例",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 46,
+    "normal_word": "画虎不成反类犬",
+    "undercover_word": "画虎类犬",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "normal_word": "郁郁寡欢",
+    "undercover_word": "悲观厌世",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "normal_word": "不即不离",
+    "undercover_word": "若即若离",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "normal_word": "变化不测",
+    "undercover_word": "安富恤贫",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 50,
+    "normal_word": "口红",
+    "undercover_word": "眼镜",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 51,
+    "normal_word": "滑冰",
+    "undercover_word": "拉丁舞",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 52,
+    "normal_word": "救生员",
+    "undercover_word": "消防员",
+    "category": "职业",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "normal_word": "黑客",
+    "undercover_word": "律师",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "normal_word": "裸婚",
+    "undercover_word": "公平",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 55,
+    "normal_word": "攀岩",
+    "undercover_word": "射箭",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 56,
+    "normal_word": "甜点师",
+    "undercover_word": "魔术师",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 57,
+    "normal_word": "冰肌玉骨",
+    "undercover_word": "冰姿玉骨",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "normal_word": "自欺欺人",
+    "undercover_word": "弄虚作假",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "normal_word": "滔滔不绝",
+    "undercover_word": "口若悬河",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "normal_word": "再接再砺",
+    "undercover_word": "再接再厉",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "normal_word": "微波炉",
+    "undercover_word": "烤箱",
+    "category": "日常用品",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "normal_word": "甲鱼",
+    "undercover_word": "乌龟",
+    "category": "动物",
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "normal_word": "循序渐进",
+    "undercover_word": "按部就班",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 64,
+    "normal_word": "白发苍苍",
+    "undercover_word": "伯仲之间",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 65,
+    "normal_word": "避难就易",
+    "undercover_word": "锲而不舍",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "normal_word": "诗人",
+    "undercover_word": "作家",
+    "category": "职业",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "normal_word": "壁纸",
+    "undercover_word": "隐形眼镜",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 68,
+    "normal_word": "青蛙",
+    "undercover_word": "鲸鱼",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 69,
+    "normal_word": "鲸鱼",
+    "undercover_word": "海豚",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "normal_word": "高压锅",
+    "undercover_word": "毛笔",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 71,
+    "normal_word": "隐形眼镜",
+    "undercover_word": "眼镜",
+    "category": "日常用品",
+    "difficulty": 1
+  },
+  {
+    "id": 72,
+    "normal_word": "周立波",
+    "undercover_word": "甄嬛传",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 73,
+    "normal_word": "手套",
+    "undercover_word": "平底锅",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 74,
+    "normal_word": "歌手",
+    "undercover_word": "工程师",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 75,
+    "normal_word": "挑拨是非",
+    "undercover_word": "郁郁寡欢",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 76,
+    "normal_word": "饺子",
+    "undercover_word": "薯片",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 77,
+    "normal_word": "狗逮老鼠",
+    "undercover_word": "狗拿耗子",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "normal_word": "不败之地",
+    "undercover_word": "所向无敌",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 79,
+    "normal_word": "神雕侠侣",
+    "undercover_word": "喜服",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 80,
+    "normal_word": "老佛爷",
+    "undercover_word": "心跳",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 81,
+    "normal_word": "风能",
+    "undercover_word": "情人节",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "normal_word": "完美无缺",
+    "undercover_word": "白璧无瑕",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "normal_word": "出租车",
+    "undercover_word": "网约车",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "normal_word": "繁荣兴旺",
+    "undercover_word": "繁荣昌盛",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "normal_word": "海盗船",
+    "undercover_word": "出租车",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 86,
+    "normal_word": "闪婚",
+    "undercover_word": "勇往直前",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "normal_word": "游轮",
+    "undercover_word": "火车",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 88,
+    "normal_word": "高铁",
+    "undercover_word": "滑板",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 89,
+    "normal_word": "巧克力",
+    "undercover_word": "米饭",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "normal_word": "犀牛",
+    "undercover_word": "公鸡",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 91,
+    "normal_word": "王菲",
+    "undercover_word": "皇帝",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 92,
+    "normal_word": "捕快",
+    "undercover_word": "研究员",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 93,
+    "normal_word": "步步惊心",
+    "undercover_word": "钢琴",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 94,
+    "normal_word": "光棍节",
+    "undercover_word": "情人节",
+    "category": "抽象概念",
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "normal_word": "保镖",
+    "undercover_word": "歌手",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 96,
+    "normal_word": "帆船",
+    "undercover_word": "过山车",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 97,
+    "normal_word": "抱枕",
+    "undercover_word": "高压锅",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 98,
+    "normal_word": "别有心肝",
+    "undercover_word": "别有肺肠",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "normal_word": "勇往直前",
+    "undercover_word": "双胞胎",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "normal_word": "蜜蜂",
+    "undercover_word": "蝴蝶",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 101,
+    "normal_word": "蜘蛛",
+    "undercover_word": "生菜",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 102,
+    "normal_word": "保镖",
+    "undercover_word": "黑客",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 103,
+    "normal_word": "青蛙",
+    "undercover_word": "蟾蜍",
+    "category": "动物",
+    "difficulty": 1
+  },
+  {
+    "id": 104,
+    "normal_word": "井底之蛙",
+    "undercover_word": "鼠目寸光",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 105,
+    "normal_word": "货车",
+    "undercover_word": "卡车",
+    "category": "交通工具",
+    "difficulty": 1
+  },
+  {
+    "id": 106,
+    "normal_word": "横七竖八",
+    "undercover_word": "乱七八糟",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 107,
+    "normal_word": "蚊子",
+    "undercover_word": "猫",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 108,
+    "normal_word": "仿生人",
+    "undercover_word": "太子",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 109,
+    "normal_word": "电扇",
+    "undercover_word": "皂角粉",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 110,
+    "normal_word": "剃须刀",
+    "undercover_word": "平底锅",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 111,
+    "normal_word": "蹦极",
+    "undercover_word": "攀岩",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 112,
+    "normal_word": "海盗船",
+    "undercover_word": "飞机",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 113,
+    "normal_word": "歌手",
+    "undercover_word": "律师",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 114,
+    "normal_word": "安常习故",
+    "undercover_word": "安常守故",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 115,
+    "normal_word": "洗发水",
+    "undercover_word": "洗衣机",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 116,
+    "normal_word": "四面楚歌",
+    "undercover_word": "公平",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 117,
+    "normal_word": "薯片",
+    "undercover_word": "披萨",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 118,
+    "normal_word": "纸巾",
+    "undercover_word": "镜子",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 119,
+    "normal_word": "宋小宝",
+    "undercover_word": "喜服",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 120,
+    "normal_word": "察言观色",
+    "undercover_word": "再接再砺",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 121,
+    "normal_word": "安身立命",
+    "undercover_word": "安居乐业",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 122,
+    "normal_word": "蝎子",
+    "undercover_word": "袋鼠",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 123,
+    "normal_word": "一帆风顺",
+    "undercover_word": "无往不利",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 124,
+    "normal_word": "保镖",
+    "undercover_word": "甜点师",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 125,
+    "normal_word": "病民害国",
+    "undercover_word": "病民蠹国",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 126,
+    "normal_word": "作家",
+    "undercover_word": "教授",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 127,
+    "normal_word": "三心二意",
+    "undercover_word": "一心二用",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 128,
+    "normal_word": "海盗船",
+    "undercover_word": "过山车",
+    "category": "交通工具",
+    "difficulty": 2
+  },
+  {
+    "id": 129,
+    "normal_word": "编辑",
+    "undercover_word": "记者",
+    "category": "职业",
+    "difficulty": 2
+  },
+  {
+    "id": 130,
+    "normal_word": "黛玉葬花",
+    "undercover_word": "周立波",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 131,
+    "normal_word": "棉花糖",
+    "undercover_word": "巧克力",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 132,
+    "normal_word": "层见叠出",
+    "undercover_word": "百无一成",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 133,
+    "normal_word": "香皂",
+    "undercover_word": "沐浴露",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 134,
+    "normal_word": "薯片",
+    "undercover_word": "薯条",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 135,
+    "normal_word": "皮划艇",
+    "undercover_word": "出租车",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 136,
+    "normal_word": "弃暗投明",
+    "undercover_word": "背暗投明",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 137,
+    "normal_word": "变化莫测",
+    "undercover_word": "欢天喜地",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 138,
+    "normal_word": "昂然自若",
+    "undercover_word": "昂昂自若",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 139,
+    "normal_word": "须发皆白",
+    "undercover_word": "白发苍苍",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 140,
+    "normal_word": "出口成章",
+    "undercover_word": "下笔成文",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 141,
+    "normal_word": "阿世盗名",
+    "undercover_word": "欺世盗名",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 142,
+    "normal_word": "蟾蜍",
+    "undercover_word": "蝴蝶",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 143,
+    "normal_word": "厨师",
+    "undercover_word": "消防员",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 144,
+    "normal_word": "袋鼠",
+    "undercover_word": "熊猫",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 145,
+    "normal_word": "火箭",
+    "undercover_word": "导弹",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 146,
+    "normal_word": "百无一成",
+    "undercover_word": "一事无成",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 147,
+    "normal_word": "唇膏",
+    "undercover_word": "雨伞",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 148,
+    "normal_word": "挨饿受冻",
+    "undercover_word": "挨冻受饿",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 149,
+    "normal_word": "婚纱",
+    "undercover_word": "王菲",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 150,
+    "normal_word": "小沈阳",
+    "undercover_word": "话剧",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 151,
+    "normal_word": "警察",
+    "undercover_word": "捕快",
+    "category": "职业",
+    "difficulty": 1
+  },
+  {
+    "id": 152,
+    "normal_word": "教授",
+    "undercover_word": "教练",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 153,
+    "normal_word": "螃蟹",
+    "undercover_word": "狼",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 154,
+    "normal_word": "白骨露野",
+    "undercover_word": "尸横遍野",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 155,
+    "normal_word": "游轮",
+    "undercover_word": "导弹",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 156,
+    "normal_word": "绷带",
+    "undercover_word": "雨伞",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 157,
+    "normal_word": "乌龟",
+    "undercover_word": "熊猫",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 158,
+    "normal_word": "烧烤",
+    "undercover_word": "寿司",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 159,
+    "normal_word": "豆浆",
+    "undercover_word": "蛋卷",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 160,
+    "normal_word": "家喻户晓",
+    "undercover_word": "妇孺皆知",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 161,
+    "normal_word": "伏地魔",
+    "undercover_word": "非诚勿扰",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 162,
+    "normal_word": "洗衣机",
+    "undercover_word": "电脑",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 163,
+    "normal_word": "奶茶",
+    "undercover_word": "咖啡",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 164,
+    "normal_word": "作家",
+    "undercover_word": "魔法师",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 165,
+    "normal_word": "心跳",
+    "undercover_word": "脉搏",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 166,
+    "normal_word": "铺天盖地",
+    "undercover_word": "漫山遍野",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 167,
+    "normal_word": "汤圆",
+    "undercover_word": "小笼包",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 168,
+    "normal_word": "钢笔",
+    "undercover_word": "卷发棒",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 169,
+    "normal_word": "丰富多彩",
+    "undercover_word": "五彩缤纷",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 170,
+    "normal_word": "烤箱",
+    "undercover_word": "雨衣",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 171,
+    "normal_word": "不由自主",
+    "undercover_word": "情不自禁",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 172,
+    "normal_word": "四面楚歌",
+    "undercover_word": "裸婚",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 173,
+    "normal_word": "寿司",
+    "undercover_word": "糖果",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 174,
+    "normal_word": "猫",
+    "undercover_word": "鲨鱼",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 175,
+    "normal_word": "收音机",
+    "undercover_word": "灯笼",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 176,
+    "normal_word": "乌七八糟",
+    "undercover_word": "乱七八糟",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 177,
+    "normal_word": "毛巾",
+    "undercover_word": "皂角粉",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 178,
+    "normal_word": "风雨飘摇",
+    "undercover_word": "摇摇欲坠",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 179,
+    "normal_word": "香皂",
+    "undercover_word": "烘干机",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 180,
+    "normal_word": "甘蔗",
+    "undercover_word": "竹子",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 181,
+    "normal_word": "不测之祸",
+    "undercover_word": "飞来横祸",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 182,
+    "normal_word": "播音员",
+    "undercover_word": "作家",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 183,
+    "normal_word": "公平合理",
+    "undercover_word": "公道合理",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 184,
+    "normal_word": "无理取闹",
+    "undercover_word": "一无所有",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 185,
+    "normal_word": "考拉",
+    "undercover_word": "乌龟",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 186,
+    "normal_word": "争先恐后",
+    "undercover_word": "力争上游",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 187,
+    "normal_word": "创可贴",
+    "undercover_word": "绷带",
+    "category": "日常用品",
+    "difficulty": 1
+  },
+  {
+    "id": 188,
+    "normal_word": "莎士比亚",
+    "undercover_word": "美国队长",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 189,
+    "normal_word": "挨肩擦背",
+    "undercover_word": "有条不紊",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 190,
+    "normal_word": "魔术师",
+    "undercover_word": "魔法师",
+    "category": "职业",
+    "difficulty": 2
+  },
+  {
+    "id": 191,
+    "normal_word": "竹子",
+    "undercover_word": "苍蝇",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 192,
+    "normal_word": "教练",
+    "undercover_word": "运动员",
+    "category": "职业",
+    "difficulty": 1
+  },
+  {
+    "id": 193,
+    "normal_word": "毛笔",
+    "undercover_word": "玻璃",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 194,
+    "normal_word": "羊排",
+    "undercover_word": "咖啡",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 195,
+    "normal_word": "欢欣鼓舞",
+    "undercover_word": "乌七八糟",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 196,
+    "normal_word": "井底之蛙",
+    "undercover_word": "跨年",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 197,
+    "normal_word": "王心凌",
+    "undercover_word": "李连杰",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 198,
+    "normal_word": "斑马",
+    "undercover_word": "长颈鹿",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 199,
+    "normal_word": "厨师",
+    "undercover_word": "模特",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 200,
+    "normal_word": "自行车",
+    "undercover_word": "汽车",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 201,
+    "normal_word": "龙凤胎",
+    "undercover_word": "勇往直前",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 202,
+    "normal_word": "美人心计",
+    "undercover_word": "倾世皇妃",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 203,
+    "normal_word": "生气勃勃",
+    "undercover_word": "弃暗投明",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 204,
+    "normal_word": "卑躬屈膝",
+    "undercover_word": "卑躬屈节",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 205,
+    "normal_word": "滑雪",
+    "undercover_word": "蹦极",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 206,
+    "normal_word": "董永",
+    "undercover_word": "李湘",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 207,
+    "normal_word": "怪声怪气",
+    "undercover_word": "阴阳怪气",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 208,
+    "normal_word": "火车",
+    "undercover_word": "滑板",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 209,
+    "normal_word": "工程师",
+    "undercover_word": "护士",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 210,
+    "normal_word": "脉搏",
+    "undercover_word": "情人节",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 211,
+    "normal_word": "层见叠出",
+    "undercover_word": "层出不穷",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 212,
+    "normal_word": "豆浆",
+    "undercover_word": "汤圆",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 213,
+    "normal_word": "刘亦菲",
+    "undercover_word": "刘诗诗",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 214,
+    "normal_word": "轮船",
+    "undercover_word": "轮滑",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 215,
+    "normal_word": "冰箱",
+    "undercover_word": "冰柜",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 216,
+    "normal_word": "消防员",
+    "undercover_word": "保安",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 217,
+    "normal_word": "精疲力竭",
+    "undercover_word": "筋疲力尽",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 218,
+    "normal_word": "言不由衷",
+    "undercover_word": "万籁俱寂",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 219,
+    "normal_word": "滑板",
+    "undercover_word": "轮滑",
+    "category": "交通工具",
+    "difficulty": 2
+  },
+  {
+    "id": 220,
+    "normal_word": "护士",
+    "undercover_word": "模特",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 221,
+    "normal_word": "冲浪",
+    "undercover_word": "泰拳",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 222,
+    "normal_word": "哈利波特",
+    "undercover_word": "伏地魔",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 223,
+    "normal_word": "黛玉葬花",
+    "undercover_word": "小沈阳",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 224,
+    "normal_word": "甘蔗",
+    "undercover_word": "蜗牛",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 225,
+    "normal_word": "惊心动魄",
+    "undercover_word": "动魄惊心",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 226,
+    "normal_word": "傲慢无礼",
+    "undercover_word": "傲慢少礼",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 227,
+    "normal_word": "螃蟹",
+    "undercover_word": "蝴蝶",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 228,
+    "normal_word": "黛玉葬花",
+    "undercover_word": "蜘蛛侠",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 229,
+    "normal_word": "母鸡",
+    "undercover_word": "甘蔗",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 230,
+    "normal_word": "轿车",
+    "undercover_word": "自行车",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 231,
+    "normal_word": "言听计从",
+    "undercover_word": "百依百顺",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 232,
+    "normal_word": "形单影只",
+    "undercover_word": "孤身只影",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 233,
+    "normal_word": "救生员",
+    "undercover_word": "保安",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 234,
+    "normal_word": "击剑",
+    "undercover_word": "足球",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 235,
+    "normal_word": "猴子",
+    "undercover_word": "乌龟",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 236,
+    "normal_word": "救生员",
+    "undercover_word": "音乐家",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 237,
+    "normal_word": "蚊子",
+    "undercover_word": "长颈鹿",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 238,
+    "normal_word": "蓝莓",
+    "undercover_word": "草莓",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 239,
+    "normal_word": "游艇",
+    "undercover_word": "游轮",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 240,
+    "normal_word": "手环",
+    "undercover_word": "电话",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 241,
+    "normal_word": "漫山遍野",
+    "undercover_word": "白头到老",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 242,
+    "normal_word": "小沈阳",
+    "undercover_word": "伏地魔",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 243,
+    "normal_word": "捕快",
+    "undercover_word": "教练",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 244,
+    "normal_word": "四面楚歌",
+    "undercover_word": "跨年",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 245,
+    "normal_word": "牛奶",
+    "undercover_word": "豆浆",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 246,
+    "normal_word": "跑步",
+    "undercover_word": "竞走",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 247,
+    "normal_word": "宇航员",
+    "undercover_word": "飞行员",
+    "category": "职业",
+    "difficulty": 2
+  },
+  {
+    "id": 248,
+    "normal_word": "脉搏",
+    "undercover_word": "跨年",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 249,
+    "normal_word": "昂首天外",
+    "undercover_word": "昂首望天",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 250,
+    "normal_word": "老佛爷",
+    "undercover_word": "井底之蛙",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 251,
+    "normal_word": "横七竖八",
+    "undercover_word": "东倒西歪",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 252,
+    "normal_word": "泰拳",
+    "undercover_word": "芭蕾舞",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 253,
+    "normal_word": "暴风骤雨",
+    "undercover_word": "粗风暴雨",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 254,
+    "normal_word": "厨师",
+    "undercover_word": "甜点师",
+    "category": "职业",
+    "difficulty": 2
+  },
+  {
+    "id": 255,
+    "normal_word": "纸巾",
+    "undercover_word": "冰箱",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 256,
+    "normal_word": "书法家",
+    "undercover_word": "主持人",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 257,
+    "normal_word": "吐故纳新",
+    "undercover_word": "推陈出新",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 258,
+    "normal_word": "抱枕",
+    "undercover_word": "贴画",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 259,
+    "normal_word": "火箭",
+    "undercover_word": "大巴",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 260,
+    "normal_word": "克勤克俭",
+    "undercover_word": "不绝如线",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 261,
+    "normal_word": "鞋带",
+    "undercover_word": "脱毛器",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 262,
+    "normal_word": "鲨鱼",
+    "undercover_word": "苍蝇",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 263,
+    "normal_word": "十面埋伏",
+    "undercover_word": "四面楚歌",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 264,
+    "normal_word": "通俗易懂",
+    "undercover_word": "哀毁瘠立",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 265,
+    "normal_word": "烘干机",
+    "undercover_word": "音响",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 266,
+    "normal_word": "编剧",
+    "undercover_word": "歌手",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 267,
+    "normal_word": "哈利波特",
+    "undercover_word": "机器人",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 268,
+    "normal_word": "射击",
+    "undercover_word": "射箭",
+    "category": "体育运动",
+    "difficulty": 2
+  },
+  {
+    "id": 269,
+    "normal_word": "形单影只",
+    "undercover_word": "恩断义绝",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 270,
+    "normal_word": "警察",
+    "undercover_word": "程序员",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 271,
+    "normal_word": "双胞胎",
+    "undercover_word": "闪婚",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 272,
+    "normal_word": "公正",
+    "undercover_word": "风能",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 273,
+    "normal_word": "棉花糖",
+    "undercover_word": "汉堡",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 274,
+    "normal_word": "轮船",
+    "undercover_word": "过山车",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 275,
+    "normal_word": "皮划艇",
+    "undercover_word": "游艇",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 276,
+    "normal_word": "足球",
+    "undercover_word": "拉丁舞",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 277,
+    "normal_word": "救生员",
+    "undercover_word": "书法家",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 278,
+    "normal_word": "生龙活虎",
+    "undercover_word": "生气勃勃",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 279,
+    "normal_word": "安家落户",
+    "undercover_word": "安家立业",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 280,
+    "normal_word": "鲸鱼",
+    "undercover_word": "章鱼",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 281,
+    "normal_word": "欢天喜地",
+    "undercover_word": "欢欣鼓舞",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 282,
+    "normal_word": "鳄鱼",
+    "undercover_word": "斑马",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 283,
+    "normal_word": "最炫民族风",
+    "undercover_word": "董永",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 284,
+    "normal_word": "鲨鱼",
+    "undercover_word": "狗",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 285,
+    "normal_word": "寿司",
+    "undercover_word": "红烧牛肉面",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 286,
+    "normal_word": "蒸蒸日上",
+    "undercover_word": "欣欣向荣",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 287,
+    "normal_word": "后继无人",
+    "undercover_word": "断子绝孙",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 288,
+    "normal_word": "瑜伽",
+    "undercover_word": "跑步",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 289,
+    "normal_word": "高富帅",
+    "undercover_word": "漫画",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 290,
+    "normal_word": "篮球",
+    "undercover_word": "帆板",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 291,
+    "normal_word": "作家",
+    "undercover_word": "研究员",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 292,
+    "normal_word": "玻璃",
+    "undercover_word": "镜子",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 293,
+    "normal_word": "天长地久",
+    "undercover_word": "日久天长",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 294,
+    "normal_word": "才华盖世",
+    "undercover_word": "才华横溢",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 295,
+    "normal_word": "泰拳",
+    "undercover_word": "游泳",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 296,
+    "normal_word": "哀鸿遍野",
+    "undercover_word": "哀鸿遍地",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 297,
+    "normal_word": "章鱼",
+    "undercover_word": "鲨鱼",
+    "category": "动物",
+    "difficulty": 1
+  },
+  {
+    "id": 298,
+    "normal_word": "菠萝蜜",
+    "undercover_word": "牛奶",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 299,
+    "normal_word": "兴致勃勃",
+    "undercover_word": "兴高采烈",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 300,
+    "normal_word": "射击",
+    "undercover_word": "蹦极",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 301,
+    "normal_word": "无以复加",
+    "undercover_word": "登峰造极",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 302,
+    "normal_word": "惊慌失措",
+    "undercover_word": "大惊失色",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 303,
+    "normal_word": "网约车",
+    "undercover_word": "游轮",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 304,
+    "normal_word": "轻轨",
+    "undercover_word": "独木舟",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 305,
+    "normal_word": "公交",
+    "undercover_word": "游轮",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 306,
+    "normal_word": "花样男子",
+    "undercover_word": "百科全书",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 307,
+    "normal_word": "一望无际",
+    "undercover_word": "无边无际",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 308,
+    "normal_word": "保镖",
+    "undercover_word": "模特",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 309,
+    "normal_word": "鳄鱼",
+    "undercover_word": "河马",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 310,
+    "normal_word": "滑板",
+    "undercover_word": "货车",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 311,
+    "normal_word": "斑马",
+    "undercover_word": "蚂蚁",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 312,
+    "normal_word": "捕快",
+    "undercover_word": "设计师",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 313,
+    "normal_word": "八面威风",
+    "undercover_word": "八面玲珑",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 314,
+    "normal_word": "永垂不朽",
+    "undercover_word": "弃暗投明",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 315,
+    "normal_word": "倾世皇妃",
+    "undercover_word": "花样男子",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 316,
+    "normal_word": "喜出望外",
+    "undercover_word": "大喜过望",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 317,
+    "normal_word": "审计师",
+    "undercover_word": "会计师",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 318,
+    "normal_word": "篮球",
+    "undercover_word": "足球",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 319,
+    "normal_word": "不伦不类",
+    "undercover_word": "不三不四",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 320,
+    "normal_word": "香辣牛肉面",
+    "undercover_word": "红烧牛肉面",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 321,
+    "normal_word": "众叛亲离",
+    "undercover_word": "不得人心",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 322,
+    "normal_word": "钢琴",
+    "undercover_word": "小提琴",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 323,
+    "normal_word": "不经之谈",
+    "undercover_word": "无稽之谈",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 324,
+    "normal_word": "丸子",
+    "undercover_word": "可可",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 325,
+    "normal_word": "大象",
+    "undercover_word": "母鸡",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 326,
+    "normal_word": "挨肩擦背",
+    "undercover_word": "挨肩叠背",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 327,
+    "normal_word": "演员",
+    "undercover_word": "模特",
+    "category": "职业",
+    "difficulty": 1
+  },
+  {
+    "id": 328,
+    "normal_word": "不伦不类",
+    "undercover_word": "力不从心",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 329,
+    "normal_word": "甲鱼",
+    "undercover_word": "河马",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 330,
+    "normal_word": "博闻多识",
+    "undercover_word": "见多识广",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 331,
+    "normal_word": "公交车",
+    "undercover_word": "汽车",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 332,
+    "normal_word": "甲鱼",
+    "undercover_word": "蜻蜓",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 333,
+    "normal_word": "井底之蛙",
+    "undercover_word": "词不达意",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 334,
+    "normal_word": "红茶",
+    "undercover_word": "绿茶",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 335,
+    "normal_word": "袜子",
+    "undercover_word": "沐浴露",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 336,
+    "normal_word": "蛞蝓",
+    "undercover_word": "蜗牛",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 337,
+    "normal_word": "游泳",
+    "undercover_word": "健身",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 338,
+    "normal_word": "饺子",
+    "undercover_word": "火锅",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 339,
+    "normal_word": "被子",
+    "undercover_word": "创可贴",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 340,
+    "normal_word": "周立波",
+    "undercover_word": "谢娜",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 341,
+    "normal_word": "苍黄翻覆",
+    "undercover_word": "尸横遍野",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 342,
+    "normal_word": "裸婚",
+    "undercover_word": "鼠目寸光",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 343,
+    "normal_word": "摩肩接踵",
+    "undercover_word": "人山人海",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 344,
+    "normal_word": "烘干机",
+    "undercover_word": "烤箱",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 345,
+    "normal_word": "馒头",
+    "undercover_word": "小笼包",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 346,
+    "normal_word": "羊排",
+    "undercover_word": "西瓜",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 347,
+    "normal_word": "苍蝇",
+    "undercover_word": "公鸡",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 348,
+    "normal_word": "鞋带",
+    "undercover_word": "腰带",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 349,
+    "normal_word": "电话",
+    "undercover_word": "手机",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 350,
+    "normal_word": "射击",
+    "undercover_word": "竞走",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 351,
+    "normal_word": "甄子丹",
+    "undercover_word": "甄嬛传",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 352,
+    "normal_word": "卡车",
+    "undercover_word": "导弹",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 353,
+    "normal_word": "伏地魔",
+    "undercover_word": "丑小鸭",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 354,
+    "normal_word": "音乐家",
+    "undercover_word": "医生",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 355,
+    "normal_word": "皮划艇",
+    "undercover_word": "摩托车",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 356,
+    "normal_word": "太阳能",
+    "undercover_word": "裸婚",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 357,
+    "normal_word": "蜘蛛",
+    "undercover_word": "蜥蜴",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 358,
+    "normal_word": "滑冰",
+    "undercover_word": "滑雪",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 359,
+    "normal_word": "摩托车",
+    "undercover_word": "直升机",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 360,
+    "normal_word": "丸子",
+    "undercover_word": "汤圆",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 361,
+    "normal_word": "作家",
+    "undercover_word": "法官",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 362,
+    "normal_word": "专心致志",
+    "undercover_word": "全神贯注",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 363,
+    "normal_word": "螃蟹",
+    "undercover_word": "猴子",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 364,
+    "normal_word": "鼠目寸光",
+    "undercover_word": "双胞胎",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 365,
+    "normal_word": "反复无常",
+    "undercover_word": "鞍马劳倦",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 366,
+    "normal_word": "程序员",
+    "undercover_word": "宇航员",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 367,
+    "normal_word": "芭蕾舞",
+    "undercover_word": "蹦极",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 368,
+    "normal_word": "一如既往",
+    "undercover_word": "自始至终",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 369,
+    "normal_word": "话剧",
+    "undercover_word": "哈利波特",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 370,
+    "normal_word": "护士",
+    "undercover_word": "设计师",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 371,
+    "normal_word": "心服口服",
+    "undercover_word": "心悦诚服",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 372,
+    "normal_word": "射击",
+    "undercover_word": "普拉提",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 373,
+    "normal_word": "雨伞",
+    "undercover_word": "雨衣",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 374,
+    "normal_word": "洗衣机",
+    "undercover_word": "烘干机",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 375,
+    "normal_word": "沐浴露",
+    "undercover_word": "冰柜",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 376,
+    "normal_word": "饼干",
+    "undercover_word": "蛋卷",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 377,
+    "normal_word": "小提琴",
+    "undercover_word": "钢铁侠",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 378,
+    "normal_word": "周立波",
+    "undercover_word": "工藤新一",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 379,
+    "normal_word": "沙拉",
+    "undercover_word": "柠檬",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 380,
+    "normal_word": "勇往直前",
+    "undercover_word": "十面埋伏",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 381,
+    "normal_word": "丑小鸭",
+    "undercover_word": "李连杰",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 382,
+    "normal_word": "变化莫测",
+    "undercover_word": "高才捷足",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 383,
+    "normal_word": "火锅",
+    "undercover_word": "麻辣烫",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 384,
+    "normal_word": "工程师",
+    "undercover_word": "设计师",
+    "category": "职业",
+    "difficulty": 2
+  },
+  {
+    "id": 385,
+    "normal_word": "蛋卷",
+    "undercover_word": "可乐",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 386,
+    "normal_word": "不相上下",
+    "undercover_word": "纸上谈兵",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 387,
+    "normal_word": "词不达意",
+    "undercover_word": "语无伦次",
+    "category": "抽象概念",
+    "difficulty": 1
+  },
+  {
+    "id": 388,
+    "normal_word": "宇航员",
+    "undercover_word": "护士",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 389,
+    "normal_word": "百科全书",
+    "undercover_word": "仿生人",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 390,
+    "normal_word": "钢琴",
+    "undercover_word": "吉他",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 391,
+    "normal_word": "龙凤胎",
+    "undercover_word": "风能",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 392,
+    "normal_word": "记者",
+    "undercover_word": "程序员",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 393,
+    "normal_word": "福尔摩斯",
+    "undercover_word": "富二代",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 394,
+    "normal_word": "太阳能",
+    "undercover_word": "词不达意",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 395,
+    "normal_word": "棉花糖",
+    "undercover_word": "牛肉干",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 396,
+    "normal_word": "继往开来",
+    "undercover_word": "承前启后",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 397,
+    "normal_word": "饺子",
+    "undercover_word": "馒头",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 398,
+    "normal_word": "裸婚",
+    "undercover_word": "老天爷",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 399,
+    "normal_word": "依依不舍",
+    "undercover_word": "流芳百世",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 400,
+    "normal_word": "网球",
+    "undercover_word": "普拉提",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 401,
+    "normal_word": "高压锅",
+    "undercover_word": "灯笼",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 402,
+    "normal_word": "护发素",
+    "undercover_word": "洗发水",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 403,
+    "normal_word": "设计师",
+    "undercover_word": "医生",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 404,
+    "normal_word": "糖果",
+    "undercover_word": "巧克力",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 405,
+    "normal_word": "保安",
+    "undercover_word": "教练",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 406,
+    "normal_word": "蝎子",
+    "undercover_word": "乌龟",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 407,
+    "normal_word": "甄子丹",
+    "undercover_word": "李连杰",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 408,
+    "normal_word": "章鱼",
+    "undercover_word": "生菜",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 409,
+    "normal_word": "最炫民族风",
+    "undercover_word": "甄嬛传",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 410,
+    "normal_word": "天天向上",
+    "undercover_word": "话剧",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 411,
+    "normal_word": "一帆风顺",
+    "undercover_word": "不可磨灭",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 412,
+    "normal_word": "高才捷足",
+    "undercover_word": "高材疾足",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 413,
+    "normal_word": "满不在乎",
+    "undercover_word": "若无其事",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 414,
+    "normal_word": "言简意赅",
+    "undercover_word": "要言不烦",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 415,
+    "normal_word": "不顾死活",
+    "undercover_word": "不顾一切",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 416,
+    "normal_word": "宇航员",
+    "undercover_word": "编剧",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 417,
+    "normal_word": "保安",
+    "undercover_word": "飞行员",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 418,
+    "normal_word": "摩托车",
+    "undercover_word": "轮滑",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 419,
+    "normal_word": "暗箭伤人",
+    "undercover_word": "暗箭中人",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 420,
+    "normal_word": "袜子",
+    "undercover_word": "手套",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 421,
+    "normal_word": "西瓜",
+    "undercover_word": "哈密瓜",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 422,
+    "normal_word": "隔世之感",
+    "undercover_word": "恍如隔世",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 423,
+    "normal_word": "小笼包",
+    "undercover_word": "面条",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 424,
+    "normal_word": "菠萝蜜",
+    "undercover_word": "榴莲",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 425,
+    "normal_word": "猪肉脯",
+    "undercover_word": "牛肉干",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 426,
+    "normal_word": "口红",
+    "undercover_word": "电脑",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 427,
+    "normal_word": "收音机",
+    "undercover_word": "雨伞",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 428,
+    "normal_word": "羽毛球",
+    "undercover_word": "击剑",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 429,
+    "normal_word": "医生",
+    "undercover_word": "警察",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 430,
+    "normal_word": "动魄惊心",
+    "undercover_word": "挨肩擦背",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 431,
+    "normal_word": "画家",
+    "undercover_word": "魔术师",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 432,
+    "normal_word": "帆船",
+    "undercover_word": "轿车",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 433,
+    "normal_word": "汉堡包",
+    "undercover_word": "肉夹馍",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 434,
+    "normal_word": "狐狸",
+    "undercover_word": "螃蟹",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 435,
+    "normal_word": "床单",
+    "undercover_word": "皂角粉",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 436,
+    "normal_word": "纸上谈兵",
+    "undercover_word": "阿谀取容",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 437,
+    "normal_word": "吹风机",
+    "undercover_word": "牙刷",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 438,
+    "normal_word": "剑道",
+    "undercover_word": "蹦极",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 439,
+    "normal_word": "那英",
+    "undercover_word": "王菲",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 440,
+    "normal_word": "蛋糕",
+    "undercover_word": "刺身",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 441,
+    "normal_word": "剃须刀",
+    "undercover_word": "脱毛器",
+    "category": "日常用品",
+    "difficulty": 1
+  },
+  {
+    "id": 442,
+    "normal_word": "跨年",
+    "undercover_word": "新年",
+    "category": "抽象概念",
+    "difficulty": 2
+  },
+  {
+    "id": 443,
+    "normal_word": "变本加厉",
+    "undercover_word": "有加无已",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 444,
+    "normal_word": "花样男子",
+    "undercover_word": "流星花园",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 445,
+    "normal_word": "话剧",
+    "undercover_word": "小品",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 446,
+    "normal_word": "健身",
+    "undercover_word": "芭蕾舞",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 447,
+    "normal_word": "蚊子",
+    "undercover_word": "鳄鱼",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 448,
+    "normal_word": "福尔摩斯",
+    "undercover_word": "婚纱",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 449,
+    "normal_word": "归心如箭",
+    "undercover_word": "归心似箭",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 450,
+    "normal_word": "猴子",
+    "undercover_word": "蜜蜂",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 451,
+    "normal_word": "考拉",
+    "undercover_word": "袋鼠",
+    "category": "动物",
+    "difficulty": 1
+  },
+  {
+    "id": 452,
+    "normal_word": "电视剧",
+    "undercover_word": "电影",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 453,
+    "normal_word": "周立波",
+    "undercover_word": "婚纱",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 454,
+    "normal_word": "沐浴露",
+    "undercover_word": "电视",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 455,
+    "normal_word": "奶茶",
+    "undercover_word": "薯片",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 456,
+    "normal_word": "火车",
+    "undercover_word": "高铁",
+    "category": "交通工具",
+    "difficulty": 1
+  },
+  {
+    "id": 457,
+    "normal_word": "出人意料",
+    "undercover_word": "出乎意料",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 458,
+    "normal_word": "美国队长",
+    "undercover_word": "钢铁侠",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 459,
+    "normal_word": "玫瑰",
+    "undercover_word": "月季",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 460,
+    "normal_word": "花样男子",
+    "undercover_word": "努尔哈赤",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 461,
+    "normal_word": "张韶涵",
+    "undercover_word": "王心凌",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 462,
+    "normal_word": "射箭",
+    "undercover_word": "跆拳道",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 463,
+    "normal_word": "董永",
+    "undercover_word": "许仙",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 464,
+    "normal_word": "公正",
+    "undercover_word": "公平",
+    "category": "抽象概念",
+    "difficulty": 2
+  },
+  {
+    "id": 465,
+    "normal_word": "蜥蜴",
+    "undercover_word": "蛇",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 466,
+    "normal_word": "喜服",
+    "undercover_word": "蜘蛛侠",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 467,
+    "normal_word": "愁眉泪眼",
+    "undercover_word": "愁眉苦脸",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 468,
+    "normal_word": "全力以赴",
+    "undercover_word": "新年",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 469,
+    "normal_word": "不慌不忙",
+    "undercover_word": "推陈出新",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 470,
+    "normal_word": "生菜",
+    "undercover_word": "白菜",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 471,
+    "normal_word": "甜点师",
+    "undercover_word": "编剧",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 472,
+    "normal_word": "狗",
+    "undercover_word": "狼",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 473,
+    "normal_word": "被子",
+    "undercover_word": "抱枕",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 474,
+    "normal_word": "跳水",
+    "undercover_word": "蹦极",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 475,
+    "normal_word": "安分守己",
+    "undercover_word": "遵纪守法",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 476,
+    "normal_word": "普拉提",
+    "undercover_word": "羽毛球",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 477,
+    "normal_word": "昂然直入",
+    "undercover_word": "昂然而入",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 478,
+    "normal_word": "律师",
+    "undercover_word": "法官",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 479,
+    "normal_word": "根深蒂固",
+    "undercover_word": "根深柢固",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 480,
+    "normal_word": "魔法师",
+    "undercover_word": "捕快",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 481,
+    "normal_word": "裸婚",
+    "undercover_word": "闪婚",
+    "category": "抽象概念",
+    "difficulty": 2
+  },
+  {
+    "id": 482,
+    "normal_word": "跳水",
+    "undercover_word": "游泳",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 483,
+    "normal_word": "挨肩叠背",
+    "undercover_word": "随波逐流",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 484,
+    "normal_word": "自行车",
+    "undercover_word": "摩托车",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 485,
+    "normal_word": "巧克力",
+    "undercover_word": "绿茶",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 486,
+    "normal_word": "四面楚歌",
+    "undercover_word": "风能",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 487,
+    "normal_word": "辣椒",
+    "undercover_word": "芥末",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 488,
+    "normal_word": "网球",
+    "undercover_word": "乒乓球",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 489,
+    "normal_word": "不慌不忙",
+    "undercover_word": "从容不迫",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 490,
+    "normal_word": "坚持不懈",
+    "undercover_word": "锲而不舍",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 491,
+    "normal_word": "名不副实",
+    "undercover_word": "名过其实",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 492,
+    "normal_word": "播音员",
+    "undercover_word": "甜点师",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 493,
+    "normal_word": "酸菜鱼",
+    "undercover_word": "水煮鱼",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 494,
+    "normal_word": "狮子",
+    "undercover_word": "蛇",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 495,
+    "normal_word": "饱经风霜",
+    "undercover_word": "饱经忧患",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 496,
+    "normal_word": "言听计从",
+    "undercover_word": "绝无仅有",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 497,
+    "normal_word": "惨不忍睹",
+    "undercover_word": "惨不忍闻",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 498,
+    "normal_word": "喜服",
+    "undercover_word": "婚纱",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 499,
+    "normal_word": "千方百计",
+    "undercover_word": "想方设法",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 500,
+    "normal_word": "蜥蜴",
+    "undercover_word": "鲸鱼",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 501,
+    "normal_word": "班荆道旧",
+    "undercover_word": "同流合污",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 502,
+    "normal_word": "扬长而去",
+    "undercover_word": "拂袖而去",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 503,
+    "normal_word": "总而言之",
+    "undercover_word": "一言以蔽之",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 504,
+    "normal_word": "镜子",
+    "undercover_word": "贴画",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 505,
+    "normal_word": "独木舟",
+    "undercover_word": "大巴",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 506,
+    "normal_word": "以身作则",
+    "undercover_word": "身先士卒",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 507,
+    "normal_word": "菠萝蜜",
+    "undercover_word": "刺身",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 508,
+    "normal_word": "警察",
+    "undercover_word": "教授",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 509,
+    "normal_word": "安富恤穷",
+    "undercover_word": "安富恤贫",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 510,
+    "normal_word": "播音员",
+    "undercover_word": "主持人",
+    "category": "职业",
+    "difficulty": 1
+  },
+  {
+    "id": 511,
+    "normal_word": "变本加厉",
+    "undercover_word": "愁眉泪眼",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 512,
+    "normal_word": "演唱会",
+    "undercover_word": "王心凌",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 513,
+    "normal_word": "跳水",
+    "undercover_word": "竞走",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 514,
+    "normal_word": "天天向上",
+    "undercover_word": "非诚勿扰",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 515,
+    "normal_word": "蛇",
+    "undercover_word": "猩猩",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 516,
+    "normal_word": "雨伞",
+    "undercover_word": "烘干机",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 517,
+    "normal_word": "水煮鱼",
+    "undercover_word": "辣椒",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 518,
+    "normal_word": "哀毁骨立",
+    "undercover_word": "哀毁瘠立",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 519,
+    "normal_word": "棒冰",
+    "undercover_word": "冰淇淋",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 520,
+    "normal_word": "不可磨灭",
+    "undercover_word": "永垂不朽",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 521,
+    "normal_word": "小笼包",
+    "undercover_word": "灌汤包",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 522,
+    "normal_word": "非诚勿扰",
+    "undercover_word": "李连杰",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 523,
+    "normal_word": "保安",
+    "undercover_word": "编辑",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 524,
+    "normal_word": "鲨鱼",
+    "undercover_word": "熊猫",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 525,
+    "normal_word": "绿茶",
+    "undercover_word": "丸子",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 526,
+    "normal_word": "作家",
+    "undercover_word": "演员",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 527,
+    "normal_word": "蛇",
+    "undercover_word": "猴子",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 528,
+    "normal_word": "白头偕老",
+    "undercover_word": "白头到老",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 529,
+    "normal_word": "乱七八糟",
+    "undercover_word": "精打细算",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 530,
+    "normal_word": "饺子",
+    "undercover_word": "辣椒",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 531,
+    "normal_word": "芭蕾舞",
+    "undercover_word": "击剑",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 532,
+    "normal_word": "香辣牛肉面",
+    "undercover_word": "羊排",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 533,
+    "normal_word": "普拉提",
+    "undercover_word": "芭蕾舞",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 534,
+    "normal_word": "程序员",
+    "undercover_word": "黑客",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 535,
+    "normal_word": "汉堡包",
+    "undercover_word": "冰淇淋",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 536,
+    "normal_word": "手环",
+    "undercover_word": "手机",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 537,
+    "normal_word": "朝气蓬勃",
+    "undercover_word": "生气勃勃",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 538,
+    "normal_word": "猩猩",
+    "undercover_word": "猴子",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 539,
+    "normal_word": "话剧",
+    "undercover_word": "非诚勿扰",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 540,
+    "normal_word": "玫瑰",
+    "undercover_word": "龙虾",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 541,
+    "normal_word": "音乐会",
+    "undercover_word": "钢铁侠",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 542,
+    "normal_word": "不言而喻",
+    "undercover_word": "显而易见",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 543,
+    "normal_word": "平易近人",
+    "undercover_word": "和蔼可亲",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 544,
+    "normal_word": "电饭锅",
+    "undercover_word": "高压锅",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 545,
+    "normal_word": "百科全书",
+    "undercover_word": "字典",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 546,
+    "normal_word": "当场出丑",
+    "undercover_word": "继往开来",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 547,
+    "normal_word": "莫衷一是",
+    "undercover_word": "众说纷纭",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 548,
+    "normal_word": "手电筒",
+    "undercover_word": "电脑",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 549,
+    "normal_word": "张口结舌",
+    "undercover_word": "理屈词穷",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 550,
+    "normal_word": "万古长青",
+    "undercover_word": "永垂不朽",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 551,
+    "normal_word": "返璞归真",
+    "undercover_word": "返朴归真",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 552,
+    "normal_word": "寸草不生",
+    "undercover_word": "浪子回头",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 553,
+    "normal_word": "便宜行事",
+    "undercover_word": "见机行事",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 554,
+    "normal_word": "灯笼",
+    "undercover_word": "手表",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 555,
+    "normal_word": "游艇",
+    "undercover_word": "帆船",
+    "category": "交通工具",
+    "difficulty": 1
+  },
+  {
+    "id": 556,
+    "normal_word": "浴巾",
+    "undercover_word": "毛巾",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 557,
+    "normal_word": "勇往直前",
+    "undercover_word": "太阳能",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 558,
+    "normal_word": "丢三落四",
+    "undercover_word": "差三错四",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 559,
+    "normal_word": "坚忍不拔",
+    "undercover_word": "坚韧不拔",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 560,
+    "normal_word": "枕头",
+    "undercover_word": "手表",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 561,
+    "normal_word": "警察",
+    "undercover_word": "宇航员",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 562,
+    "normal_word": "消防员",
+    "undercover_word": "音乐家",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 563,
+    "normal_word": "画家",
+    "undercover_word": "书法家",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 564,
+    "normal_word": "袜子",
+    "undercover_word": "电脑",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 565,
+    "normal_word": "变化莫测",
+    "undercover_word": "变化不测",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 566,
+    "normal_word": "作家",
+    "undercover_word": "老师",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 567,
+    "normal_word": "电饭锅",
+    "undercover_word": "洗衣机",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 568,
+    "normal_word": "扫地机器人",
+    "undercover_word": "高压锅",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 569,
+    "normal_word": "馒头",
+    "undercover_word": "米饭",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 570,
+    "normal_word": "芥末",
+    "undercover_word": "意面",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 571,
+    "normal_word": "自力更生",
+    "undercover_word": "自食其力",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 572,
+    "normal_word": "帆板",
+    "undercover_word": "羽毛球",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 573,
+    "normal_word": "各就各位",
+    "undercover_word": "各尽其责",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 574,
+    "normal_word": "默默无闻",
+    "undercover_word": "不见经传",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 575,
+    "normal_word": "电饭锅",
+    "undercover_word": "平底锅",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 576,
+    "normal_word": "张韶涵",
+    "undercover_word": "流星花园",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 577,
+    "normal_word": "生气勃勃",
+    "undercover_word": "阿家阿翁",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 578,
+    "normal_word": "面条",
+    "undercover_word": "米饭",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 579,
+    "normal_word": "汤圆",
+    "undercover_word": "蛋卷",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 580,
+    "normal_word": "电脑",
+    "undercover_word": "平板",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 581,
+    "normal_word": "竹子",
+    "undercover_word": "鳄鱼",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 582,
+    "normal_word": "雨衣",
+    "undercover_word": "脱毛器",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 583,
+    "normal_word": "剑道",
+    "undercover_word": "羽毛球",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 584,
+    "normal_word": "名垂青史",
+    "undercover_word": "流芳百世",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 585,
+    "normal_word": "独一无二",
+    "undercover_word": "名过其实",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 586,
+    "normal_word": "裸婚",
+    "undercover_word": "词不达意",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 587,
+    "normal_word": "千变万化",
+    "undercover_word": "变化无穷",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 588,
+    "normal_word": "绝无仅有",
+    "undercover_word": "独一无二",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 589,
+    "normal_word": "可可",
+    "undercover_word": "寿司",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 590,
+    "normal_word": "手套",
+    "undercover_word": "高压锅",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 591,
+    "normal_word": "唇膏",
+    "undercover_word": "口红",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 592,
+    "normal_word": "蔬菜",
+    "undercover_word": "沙拉",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 593,
+    "normal_word": "出租车",
+    "undercover_word": "碰碰车",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 594,
+    "normal_word": "裸婚",
+    "undercover_word": "心跳",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 595,
+    "normal_word": "跋山涉水",
+    "undercover_word": "风餐露宿",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 596,
+    "normal_word": "海豚",
+    "undercover_word": "狮子",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 597,
+    "normal_word": "平白无故",
+    "undercover_word": "拂袖而去",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 598,
+    "normal_word": "可可",
+    "undercover_word": "咖啡",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 599,
+    "normal_word": "手表",
+    "undercover_word": "音响",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 600,
+    "normal_word": "辣椒",
+    "undercover_word": "冰淇淋",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 601,
+    "normal_word": "泰拳",
+    "undercover_word": "拳击",
+    "category": "体育运动",
+    "difficulty": 1
+  },
+  {
+    "id": 602,
+    "normal_word": "黯然神伤",
+    "undercover_word": "黯然销魂",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 603,
+    "normal_word": "演员",
+    "undercover_word": "播音员",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 604,
+    "normal_word": "博闻多识",
+    "undercover_word": "一如既往",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 605,
+    "normal_word": "毛笔",
+    "undercover_word": "钢笔",
+    "category": "日常用品",
+    "difficulty": 1
+  },
+  {
+    "id": 606,
+    "normal_word": "红楼梦",
+    "undercover_word": "甄嬛传",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 607,
+    "normal_word": "含辛茹苦",
+    "undercover_word": "千辛万苦",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 608,
+    "normal_word": "羊排",
+    "undercover_word": "牛排",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 609,
+    "normal_word": "壁纸",
+    "undercover_word": "抱枕",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 610,
+    "normal_word": "袜子",
+    "undercover_word": "灯笼",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 611,
+    "normal_word": "太阳能",
+    "undercover_word": "风能",
+    "category": "抽象概念",
+    "difficulty": 2
+  },
+  {
+    "id": 612,
+    "normal_word": "玻璃",
+    "undercover_word": "音响",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 613,
+    "normal_word": "袜子",
+    "undercover_word": "平底锅",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 614,
+    "normal_word": "脉搏",
+    "undercover_word": "十面埋伏",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 615,
+    "normal_word": "拔本塞源",
+    "undercover_word": "拔本塞原",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 616,
+    "normal_word": "柠檬",
+    "undercover_word": "橙子",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 617,
+    "normal_word": "猩猩",
+    "undercover_word": "蝴蝶",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 618,
+    "normal_word": "平底锅",
+    "undercover_word": "皂角粉",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 619,
+    "normal_word": "不测之祸",
+    "undercover_word": "拂袖而去",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 620,
+    "normal_word": "蜘蛛",
+    "undercover_word": "蝎子",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 621,
+    "normal_word": "犀牛",
+    "undercover_word": "狮子",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 622,
+    "normal_word": "镜破钗分",
+    "undercover_word": "恩断义绝",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 623,
+    "normal_word": "丸子",
+    "undercover_word": "饺子",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 624,
+    "normal_word": "不足为凭",
+    "undercover_word": "不足为据",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 625,
+    "normal_word": "仿生人",
+    "undercover_word": "机器人",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 626,
+    "normal_word": "日积月累",
+    "undercover_word": "与日俱增",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 627,
+    "normal_word": "求贤若渴",
+    "undercover_word": "爱才如命",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 628,
+    "normal_word": "寓言",
+    "undercover_word": "童话",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 629,
+    "normal_word": "刘亦菲",
+    "undercover_word": "仿生人",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 630,
+    "normal_word": "不打自招",
+    "undercover_word": "欲盖弥彰",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 631,
+    "normal_word": "自行车",
+    "undercover_word": "海盗船",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 632,
+    "normal_word": "镜子",
+    "undercover_word": "冰柜",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 633,
+    "normal_word": "救生员",
+    "undercover_word": "作家",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 634,
+    "normal_word": "轿车",
+    "undercover_word": "游轮",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 635,
+    "normal_word": "变化莫测",
+    "undercover_word": "有加无已",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 636,
+    "normal_word": "老天爷",
+    "undercover_word": "语无伦次",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 637,
+    "normal_word": "爱才若渴",
+    "undercover_word": "爱才如渴",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 638,
+    "normal_word": "老佛爷",
+    "undercover_word": "老天爷",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 639,
+    "normal_word": "自暴自弃",
+    "undercover_word": "不能自拔",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 640,
+    "normal_word": "光棍节",
+    "undercover_word": "全力以赴",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 641,
+    "normal_word": "蚂蚁",
+    "undercover_word": "乌龟",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 642,
+    "normal_word": "保安",
+    "undercover_word": "黑客",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 643,
+    "normal_word": "狐狸",
+    "undercover_word": "狼",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 644,
+    "normal_word": "死不悔改",
+    "undercover_word": "执迷不悟",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 645,
+    "normal_word": "总而言之",
+    "undercover_word": "不期而会",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 646,
+    "normal_word": "牙刷",
+    "undercover_word": "手机",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 647,
+    "normal_word": "颠来倒去",
+    "undercover_word": "颠三倒四",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 648,
+    "normal_word": "挨冻受饿",
+    "undercover_word": "忍饥挨饿",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 649,
+    "normal_word": "保镖",
+    "undercover_word": "保安",
+    "category": "职业",
+    "difficulty": 2
+  },
+  {
+    "id": 650,
+    "normal_word": "脉搏",
+    "undercover_word": "井底之蛙",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 651,
+    "normal_word": "忍饥挨饿",
+    "undercover_word": "乘风破浪",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 652,
+    "normal_word": "跑步",
+    "undercover_word": "篮球",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 653,
+    "normal_word": "铁板烧",
+    "undercover_word": "烧烤",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 654,
+    "normal_word": "仿生人",
+    "undercover_word": "话剧",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 655,
+    "normal_word": "勇往直前",
+    "undercover_word": "全力以赴",
+    "category": "抽象概念",
+    "difficulty": 2
+  },
+  {
+    "id": 656,
+    "normal_word": "烘干机",
+    "undercover_word": "电话",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 657,
+    "normal_word": "射箭",
+    "undercover_word": "足球",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 658,
+    "normal_word": "推陈出新",
+    "undercover_word": "欢天喜地",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 659,
+    "normal_word": "吸尘器",
+    "undercover_word": "灯笼",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 660,
+    "normal_word": "研究员",
+    "undercover_word": "保安",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 661,
+    "normal_word": "苍黄翻覆",
+    "undercover_word": "反复无常",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 662,
+    "normal_word": "太子",
+    "undercover_word": "皇帝",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 663,
+    "normal_word": "棒冰",
+    "undercover_word": "烧烤",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 664,
+    "normal_word": "射箭",
+    "undercover_word": "游泳",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 665,
+    "normal_word": "咖啡",
+    "undercover_word": "巧克力",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 666,
+    "normal_word": "工程师",
+    "undercover_word": "法官",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 667,
+    "normal_word": "唇膏",
+    "undercover_word": "牙刷",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 668,
+    "normal_word": "玻璃",
+    "undercover_word": "电视",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 669,
+    "normal_word": "轿车",
+    "undercover_word": "汽车",
+    "category": "交通工具",
+    "difficulty": 1
+  },
+  {
+    "id": 670,
+    "normal_word": "恍然大悟",
+    "undercover_word": "茅塞顿开",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 671,
+    "normal_word": "新年",
+    "undercover_word": "双胞胎",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 672,
+    "normal_word": "健美",
+    "undercover_word": "摔跤",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 673,
+    "normal_word": "辣椒",
+    "undercover_word": "巧克力",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 674,
+    "normal_word": "国破家亡",
+    "undercover_word": "败国丧家",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 675,
+    "normal_word": "火车",
+    "undercover_word": "出租车",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 676,
+    "normal_word": "医生",
+    "undercover_word": "护士",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 677,
+    "normal_word": "鸦雀无声",
+    "undercover_word": "万籁俱寂",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 678,
+    "normal_word": "丸子",
+    "undercover_word": "汉堡",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 679,
+    "normal_word": "飞行员",
+    "undercover_word": "编辑",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 680,
+    "normal_word": "麻花",
+    "undercover_word": "油条",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 681,
+    "normal_word": "周立波",
+    "undercover_word": "郭德纲",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 682,
+    "normal_word": "蛇",
+    "undercover_word": "苍蝇",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 683,
+    "normal_word": "保安",
+    "undercover_word": "医生",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 684,
+    "normal_word": "鳄鱼",
+    "undercover_word": "蝴蝶",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 685,
+    "normal_word": "老师",
+    "undercover_word": "教授",
+    "category": "职业",
+    "difficulty": 1
+  },
+  {
+    "id": 686,
+    "normal_word": "演唱会",
+    "undercover_word": "漫画",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 687,
+    "normal_word": "风能",
+    "undercover_word": "裸婚",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 688,
+    "normal_word": "言不由衷",
+    "undercover_word": "白发苍苍",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 689,
+    "normal_word": "李湘",
+    "undercover_word": "谢娜",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 690,
+    "normal_word": "长颈鹿",
+    "undercover_word": "蝴蝶",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 691,
+    "normal_word": "双胞胎",
+    "undercover_word": "太阳能",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 692,
+    "normal_word": "蝴蝶",
+    "undercover_word": "狐狸",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 693,
+    "normal_word": "摔跤",
+    "undercover_word": "柔道",
+    "category": "体育运动",
+    "difficulty": 1
+  },
+  {
+    "id": 694,
+    "normal_word": "杯酒解怨",
+    "undercover_word": "杯酒言欢",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 695,
+    "normal_word": "收音机",
+    "undercover_word": "音响",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 696,
+    "normal_word": "机器人",
+    "undercover_word": "百科全书",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 697,
+    "normal_word": "拉丁舞",
+    "undercover_word": "蹦极",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 698,
+    "normal_word": "雪糕",
+    "undercover_word": "冰淇淋",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 699,
+    "normal_word": "蟾蜍",
+    "undercover_word": "鲨鱼",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 700,
+    "normal_word": "卷发棒",
+    "undercover_word": "吹风机",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 701,
+    "normal_word": "阿意取容",
+    "undercover_word": "心服口服",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 702,
+    "normal_word": "直升机",
+    "undercover_word": "飞机",
+    "category": "交通工具",
+    "difficulty": 2
+  },
+  {
+    "id": 703,
+    "normal_word": "冰淇淋",
+    "undercover_word": "馒头",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 704,
+    "normal_word": "母鸡",
+    "undercover_word": "公鸡",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 705,
+    "normal_word": "面纸",
+    "undercover_word": "纸巾",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 706,
+    "normal_word": "鳄鱼",
+    "undercover_word": "蜗牛",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 707,
+    "normal_word": "阿意取容",
+    "undercover_word": "阿谀取容",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 708,
+    "normal_word": "足球",
+    "undercover_word": "泰拳",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 709,
+    "normal_word": "十面埋伏",
+    "undercover_word": "公平",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 710,
+    "normal_word": "龙凤胎",
+    "undercover_word": "双胞胎",
+    "category": "抽象概念",
+    "difficulty": 1
+  },
+  {
+    "id": 711,
+    "normal_word": "烧烤",
+    "undercover_word": "汉堡包",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 712,
+    "normal_word": "从古到今",
+    "undercover_word": "古往今来",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 713,
+    "normal_word": "宫锁珠帘",
+    "undercover_word": "宫锁心玉",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 714,
+    "normal_word": "牙膏",
+    "undercover_word": "牙刷",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 715,
+    "normal_word": "生菜",
+    "undercover_word": "蚊子",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 716,
+    "normal_word": "长风破浪",
+    "undercover_word": "乘风破浪",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 717,
+    "normal_word": "不闻不问",
+    "undercover_word": "漠不关心",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 718,
+    "normal_word": "理屈词穷",
+    "undercover_word": "不攻自破",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 719,
+    "normal_word": "摩托车",
+    "undercover_word": "火车",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 720,
+    "normal_word": "公交车",
+    "undercover_word": "出租车",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 721,
+    "normal_word": "薯条",
+    "undercover_word": "刺身",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 722,
+    "normal_word": "考拉",
+    "undercover_word": "蜥蜴",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 723,
+    "normal_word": "成千成万",
+    "undercover_word": "成千上万",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 724,
+    "normal_word": "工藤新一",
+    "undercover_word": "哈利波特",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 725,
+    "normal_word": "被子",
+    "undercover_word": "毛笔",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 726,
+    "normal_word": "游轮",
+    "undercover_word": "轮船",
+    "category": "交通工具",
+    "difficulty": 2
+  },
+  {
+    "id": 727,
+    "normal_word": "不绝如线",
+    "undercover_word": "危如累卵",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 728,
+    "normal_word": "击剑",
+    "undercover_word": "乒乓球",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 729,
+    "normal_word": "音乐家",
+    "undercover_word": "歌手",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 730,
+    "normal_word": "饼干",
+    "undercover_word": "咖啡",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 731,
+    "normal_word": "宫锁珠帘",
+    "undercover_word": "喜服",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 732,
+    "normal_word": "一箭双雕",
+    "undercover_word": "一举两得",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 733,
+    "normal_word": "毫发不爽",
+    "undercover_word": "一模一样",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 734,
+    "normal_word": "演唱会",
+    "undercover_word": "音乐会",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 735,
+    "normal_word": "冰淇淋",
+    "undercover_word": "蔬菜",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 736,
+    "normal_word": "宋小宝",
+    "undercover_word": "小沈阳",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 737,
+    "normal_word": "研究员",
+    "undercover_word": "工程师",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 738,
+    "normal_word": "公鸡",
+    "undercover_word": "青蛙",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 739,
+    "normal_word": "乌龟",
+    "undercover_word": "白菜",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 740,
+    "normal_word": "井井有条",
+    "undercover_word": "有条不紊",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 741,
+    "normal_word": "爱才若渴",
+    "undercover_word": "各尽其责",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 742,
+    "normal_word": "跑步",
+    "undercover_word": "冲浪",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 743,
+    "normal_word": "母鸡",
+    "undercover_word": "蜻蜓",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 744,
+    "normal_word": "魔法师",
+    "undercover_word": "书法家",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 745,
+    "normal_word": "地铁",
+    "undercover_word": "地铁",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 746,
+    "normal_word": "蜘蛛",
+    "undercover_word": "蛇",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 747,
+    "normal_word": "王菲",
+    "undercover_word": "流星花园",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 748,
+    "normal_word": "阿世取容",
+    "undercover_word": "阿意取容",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 749,
+    "normal_word": "芭蕾舞",
+    "undercover_word": "帆板",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 750,
+    "normal_word": "拉丁舞",
+    "undercover_word": "滑雪",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 751,
+    "normal_word": "冰柜",
+    "undercover_word": "电话",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 752,
+    "normal_word": "柔道",
+    "undercover_word": "羽毛球",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 753,
+    "normal_word": "扫地机器人",
+    "undercover_word": "吸尘器",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 754,
+    "normal_word": "数不胜数",
+    "undercover_word": "不计其数",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 755,
+    "normal_word": "高富帅",
+    "undercover_word": "富二代",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 756,
+    "normal_word": "三明治",
+    "undercover_word": "柠檬",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 757,
+    "normal_word": "蛞蝓",
+    "undercover_word": "蜥蜴",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 758,
+    "normal_word": "天龙八部",
+    "undercover_word": "那英",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 759,
+    "normal_word": "汉堡",
+    "undercover_word": "三明治",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 760,
+    "normal_word": "弹无虚发",
+    "undercover_word": "百发百中",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 761,
+    "normal_word": "肆无忌惮",
+    "undercover_word": "无法无天",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 762,
+    "normal_word": "急于求成",
+    "undercover_word": "急功近利",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 763,
+    "normal_word": "运动员",
+    "undercover_word": "保安",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 764,
+    "normal_word": "吹毛求疵",
+    "undercover_word": "求全责备",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 765,
+    "normal_word": "意面",
+    "undercover_word": "牛排",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 766,
+    "normal_word": "不期而遇",
+    "undercover_word": "不期而会",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 767,
+    "normal_word": "吉他",
+    "undercover_word": "步步惊心",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 768,
+    "normal_word": "工藤新一",
+    "undercover_word": "福尔摩斯",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 769,
+    "normal_word": "帆船",
+    "undercover_word": "滑板",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 770,
+    "normal_word": "击剑",
+    "undercover_word": "健身",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 771,
+    "normal_word": "皮划艇",
+    "undercover_word": "独木舟",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 772,
+    "normal_word": "拳击",
+    "undercover_word": "芭蕾舞",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 773,
+    "normal_word": "健美",
+    "undercover_word": "健身",
+    "category": "体育运动",
+    "difficulty": 1
+  },
+  {
+    "id": 774,
+    "normal_word": "语无伦次",
+    "undercover_word": "四面楚歌",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 775,
+    "normal_word": "鞍马劳倦",
+    "undercover_word": "鞍马劳顿",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 776,
+    "normal_word": "巧克力",
+    "undercover_word": "橙子",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 777,
+    "normal_word": "倾世皇妃",
+    "undercover_word": "漫画",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 778,
+    "normal_word": "李湘",
+    "undercover_word": "皇帝",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 779,
+    "normal_word": "同流合污",
+    "undercover_word": "随波逐流",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 780,
+    "normal_word": "语无伦次",
+    "undercover_word": "风能",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 781,
+    "normal_word": "游泳",
+    "undercover_word": "摔跤",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 782,
+    "normal_word": "律师",
+    "undercover_word": "救生员",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 783,
+    "normal_word": "力不从心",
+    "undercover_word": "无能为力",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 784,
+    "normal_word": "大喜过望",
+    "undercover_word": "变本加厉",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 785,
+    "normal_word": "货车",
+    "undercover_word": "飞机",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 786,
+    "normal_word": "井底之蛙",
+    "undercover_word": "全力以赴",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 787,
+    "normal_word": "瑜伽",
+    "undercover_word": "芭蕾舞",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 788,
+    "normal_word": "米饭",
+    "undercover_word": "豆浆",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 789,
+    "normal_word": "书法家",
+    "undercover_word": "魔术师",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 790,
+    "normal_word": "口红",
+    "undercover_word": "腰带",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 791,
+    "normal_word": "优柔寡断",
+    "undercover_word": "犹豫不决",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 792,
+    "normal_word": "编辑",
+    "undercover_word": "作家",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 793,
+    "normal_word": "拉丁舞",
+    "undercover_word": "攀岩",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 794,
+    "normal_word": "举世闻名",
+    "undercover_word": "闻名于世",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 795,
+    "normal_word": "律师",
+    "undercover_word": "教练",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 796,
+    "normal_word": "游泳",
+    "undercover_word": "帆板",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 797,
+    "normal_word": "皇帝",
+    "undercover_word": "努尔哈赤",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 798,
+    "normal_word": "老虎",
+    "undercover_word": "狮子",
+    "category": "动物",
+    "difficulty": 1
+  },
+  {
+    "id": 799,
+    "normal_word": "平板",
+    "undercover_word": "浴巾",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 800,
+    "normal_word": "壁纸",
+    "undercover_word": "贴画",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 801,
+    "normal_word": "甲鱼",
+    "undercover_word": "斑马",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 802,
+    "normal_word": "恋恋不舍",
+    "undercover_word": "依依不舍",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 803,
+    "normal_word": "李连杰",
+    "undercover_word": "董永",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 804,
+    "normal_word": "护发素",
+    "undercover_word": "手套",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 805,
+    "normal_word": "狂风怒号",
+    "undercover_word": "飞沙走石",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 806,
+    "normal_word": "公道合理",
+    "undercover_word": "独一无二",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 807,
+    "normal_word": "蜘蛛精",
+    "undercover_word": "最炫民族风",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 808,
+    "normal_word": "井底之蛙",
+    "undercover_word": "老天爷",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 809,
+    "normal_word": "摩托车",
+    "undercover_word": "大巴",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 810,
+    "normal_word": "努尔哈赤",
+    "undercover_word": "成吉思汗",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 811,
+    "normal_word": "班荆道旧",
+    "undercover_word": "班荆道故",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 812,
+    "normal_word": "跆拳道",
+    "undercover_word": "空手道",
+    "category": "体育运动",
+    "difficulty": 2
+  },
+  {
+    "id": 813,
+    "normal_word": "闪婚",
+    "undercover_word": "老天爷",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 814,
+    "normal_word": "大象",
+    "undercover_word": "犀牛",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 815,
+    "normal_word": "雪碧",
+    "undercover_word": "冰淇淋",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 816,
+    "normal_word": "挨肩擦背",
+    "undercover_word": "挨肩并足",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 817,
+    "normal_word": "十面埋伏",
+    "undercover_word": "心跳",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 818,
+    "normal_word": "全神贯注",
+    "undercover_word": "杯酒解怨",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 819,
+    "normal_word": "巧克力",
+    "undercover_word": "小笼包",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 820,
+    "normal_word": "音乐家",
+    "undercover_word": "诗人",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 821,
+    "normal_word": "碰碰车",
+    "undercover_word": "海盗船",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 822,
+    "normal_word": "天龙八部",
+    "undercover_word": "神雕侠侣",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 823,
+    "normal_word": "蜘蛛精",
+    "undercover_word": "蜘蛛侠",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 824,
+    "normal_word": "避难就易",
+    "undercover_word": "避实就虚",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 825,
+    "normal_word": "烤箱",
+    "undercover_word": "扫地机器人",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 826,
+    "normal_word": "完美无缺",
+    "undercover_word": "十全十美",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 827,
+    "normal_word": "攀岩",
+    "undercover_word": "网球",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 828,
+    "normal_word": "按部就班",
+    "undercover_word": "无法无天",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 829,
+    "normal_word": "国泰民安",
+    "undercover_word": "安居乐业",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 830,
+    "normal_word": "高铁",
+    "undercover_word": "飞机",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 831,
+    "normal_word": "不刊之论",
+    "undercover_word": "不易之论",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 832,
+    "normal_word": "警察",
+    "undercover_word": "编剧",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 833,
+    "normal_word": "审计师",
+    "undercover_word": "黑客",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 834,
+    "normal_word": "小题大做",
+    "undercover_word": "大做文章",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 835,
+    "normal_word": "龙虾",
+    "undercover_word": "螃蟹",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 836,
+    "normal_word": "包子",
+    "undercover_word": "馒头",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 837,
+    "normal_word": "教练",
+    "undercover_word": "救生员",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 838,
+    "normal_word": "莎士比亚",
+    "undercover_word": "莫泊桑",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 839,
+    "normal_word": "夸夸其谈",
+    "undercover_word": "纸上谈兵",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 840,
+    "normal_word": "满不在乎",
+    "undercover_word": "傲世轻物",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 841,
+    "normal_word": "通俗易懂",
+    "undercover_word": "深入浅出",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 842,
+    "normal_word": "鼠目寸光",
+    "undercover_word": "老佛爷",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 843,
+    "normal_word": "姹紫嫣红",
+    "undercover_word": "花红柳绿",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 844,
+    "normal_word": "公平",
+    "undercover_word": "词不达意",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 845,
+    "normal_word": "游轮",
+    "undercover_word": "飞机",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 846,
+    "normal_word": "轮船",
+    "undercover_word": "地铁",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 847,
+    "normal_word": "风言风语",
+    "undercover_word": "流言蜚语",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 848,
+    "normal_word": "刘诗诗",
+    "undercover_word": "蜘蛛精",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 849,
+    "normal_word": "皇帝",
+    "undercover_word": "红楼梦",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 850,
+    "normal_word": "裸婚",
+    "undercover_word": "龙凤胎",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 851,
+    "normal_word": "吉他",
+    "undercover_word": "动画",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 852,
+    "normal_word": "跳水",
+    "undercover_word": "帆板",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 853,
+    "normal_word": "落井下石",
+    "undercover_word": "乘人之危",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 854,
+    "normal_word": "宫锁珠帘",
+    "undercover_word": "成吉思汗",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 855,
+    "normal_word": "袋鼠",
+    "undercover_word": "猩猩",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 856,
+    "normal_word": "过山车",
+    "undercover_word": "碰碰车",
+    "category": "交通工具",
+    "difficulty": 2
+  },
+  {
+    "id": 857,
+    "normal_word": "见机行事",
+    "undercover_word": "恩断义绝",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 858,
+    "normal_word": "心旷神怡",
+    "undercover_word": "赏心悦目",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 859,
+    "normal_word": "步步惊心",
+    "undercover_word": "宫锁心玉",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 860,
+    "normal_word": "面纸",
+    "undercover_word": "电饭煲",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 861,
+    "normal_word": "无缘无故",
+    "undercover_word": "平白无故",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 862,
+    "normal_word": "平板",
+    "undercover_word": "鞋带",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 863,
+    "normal_word": "丑小鸭",
+    "undercover_word": "灰姑娘",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 864,
+    "normal_word": "电视",
+    "undercover_word": "投影仪",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 865,
+    "normal_word": "摔跤",
+    "undercover_word": "泰拳",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 866,
+    "normal_word": "作家",
+    "undercover_word": "编剧",
+    "category": "职业",
+    "difficulty": 2
+  },
+  {
+    "id": 867,
+    "normal_word": "演唱会",
+    "undercover_word": "小提琴",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 868,
+    "normal_word": "海盗船",
+    "undercover_word": "地铁",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 869,
+    "normal_word": "投影仪",
+    "undercover_word": "床单",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 870,
+    "normal_word": "死里逃生",
+    "undercover_word": "九死一生",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 871,
+    "normal_word": "游泳",
+    "undercover_word": "蹦极",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 872,
+    "normal_word": "手套",
+    "undercover_word": "电脑",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 873,
+    "normal_word": "长颈鹿",
+    "undercover_word": "生菜",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 874,
+    "normal_word": "强词夺理",
+    "undercover_word": "无理取闹",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 875,
+    "normal_word": "天龙八部",
+    "undercover_word": "甄嬛传",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 876,
+    "normal_word": "猴子",
+    "undercover_word": "袋鼠",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 877,
+    "normal_word": "乌龟",
+    "undercover_word": "蛞蝓",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 878,
+    "normal_word": "刺身",
+    "undercover_word": "寿司",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 879,
+    "normal_word": "射箭",
+    "undercover_word": "竞走",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 880,
+    "normal_word": "形单影只",
+    "undercover_word": "白骨露野",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 881,
+    "normal_word": "芭蕾舞",
+    "undercover_word": "剑道",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 882,
+    "normal_word": "记者",
+    "undercover_word": "歌手",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 883,
+    "normal_word": "光棍节",
+    "undercover_word": "风能",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 884,
+    "normal_word": "手电筒",
+    "undercover_word": "高压锅",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 885,
+    "normal_word": "芭蕾舞",
+    "undercover_word": "拉丁舞",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 886,
+    "normal_word": "全军覆没",
+    "undercover_word": "一败涂地",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 887,
+    "normal_word": "许仙",
+    "undercover_word": "童话",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 888,
+    "normal_word": "蛋卷",
+    "undercover_word": "烧烤",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 889,
+    "normal_word": "护发素",
+    "undercover_word": "镜子",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 890,
+    "normal_word": "帆船",
+    "undercover_word": "轻轨",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 891,
+    "normal_word": "弃暗投明",
+    "undercover_word": "改邪归正",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 892,
+    "normal_word": "鞋带",
+    "undercover_word": "袜子",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 893,
+    "normal_word": "出租车",
+    "undercover_word": "游艇",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 894,
+    "normal_word": "辣椒",
+    "undercover_word": "油条",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 895,
+    "normal_word": "黛玉葬花",
+    "undercover_word": "贵妃醉酒",
+    "category": "文化娱乐",
+    "difficulty": 3
+  },
+  {
+    "id": 896,
+    "normal_word": "不拔一毛",
+    "undercover_word": "一毛不拔",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 897,
+    "normal_word": "黑白不分",
+    "undercover_word": "白黑不分",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 898,
+    "normal_word": "攀岩",
+    "undercover_word": "跑步",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 899,
+    "normal_word": "汤圆",
+    "undercover_word": "辣椒",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 900,
+    "normal_word": "推陈出新",
+    "undercover_word": "惨不忍睹",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 901,
+    "normal_word": "警察",
+    "undercover_word": "画家",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 902,
+    "normal_word": "油条",
+    "undercover_word": "红烧牛肉面",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 903,
+    "normal_word": "雪碧",
+    "undercover_word": "可乐",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 904,
+    "normal_word": "蚂蚁",
+    "undercover_word": "蜻蜓",
+    "category": "动物",
+    "difficulty": 2
+  },
+  {
+    "id": 905,
+    "normal_word": "跨年",
+    "undercover_word": "老天爷",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 906,
+    "normal_word": "蛋糕",
+    "undercover_word": "面包",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 907,
+    "normal_word": "床单",
+    "undercover_word": "手机",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 908,
+    "normal_word": "羽毛球",
+    "undercover_word": "乒乓球",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 909,
+    "normal_word": "研究员",
+    "undercover_word": "科学家",
+    "category": "职业",
+    "difficulty": 3
+  },
+  {
+    "id": 910,
+    "normal_word": "篮球",
+    "undercover_word": "拉丁舞",
+    "category": "体育运动",
+    "difficulty": 5
+  },
+  {
+    "id": 911,
+    "normal_word": "饺子",
+    "undercover_word": "馄饨",
+    "category": "食物",
+    "difficulty": 2
+  },
+  {
+    "id": 912,
+    "normal_word": "董永",
+    "undercover_word": "流星花园",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 913,
+    "normal_word": "甄子丹",
+    "undercover_word": "红楼梦",
+    "category": "文化娱乐",
+    "difficulty": 4
+  },
+  {
+    "id": 914,
+    "normal_word": "全力以赴",
+    "undercover_word": "跨年",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 915,
+    "normal_word": "飞机",
+    "undercover_word": "地铁",
+    "category": "交通工具",
+    "difficulty": 5
+  },
+  {
+    "id": 916,
+    "normal_word": "枕头",
+    "undercover_word": "抱枕",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 917,
+    "normal_word": "和蔼可亲",
+    "undercover_word": "黑白不分",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 918,
+    "normal_word": "安故重迁",
+    "undercover_word": "安于现状",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 919,
+    "normal_word": "身无长物",
+    "undercover_word": "一无所有",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 920,
+    "normal_word": "寸草不生",
+    "undercover_word": "荒无人烟",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 921,
+    "normal_word": "月季",
+    "undercover_word": "蜘蛛",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 922,
+    "normal_word": "太阳能",
+    "undercover_word": "跨年",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 923,
+    "normal_word": "披萨",
+    "undercover_word": "意面",
+    "category": "食物",
+    "difficulty": 3
+  },
+  {
+    "id": 924,
+    "normal_word": "玻璃",
+    "undercover_word": "袜子",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 925,
+    "normal_word": "爱富嫌贫",
+    "undercover_word": "嫌贫爱富",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 926,
+    "normal_word": "击剑",
+    "undercover_word": "剑道",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 927,
+    "normal_word": "漫画",
+    "undercover_word": "动画",
+    "category": "文化娱乐",
+    "difficulty": 1
+  },
+  {
+    "id": 928,
+    "normal_word": "光棍节",
+    "undercover_word": "双胞胎",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 929,
+    "normal_word": "烘干机",
+    "undercover_word": "唇膏",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 930,
+    "normal_word": "有气无力",
+    "undercover_word": "无精打采",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 931,
+    "normal_word": "被子",
+    "undercover_word": "平底锅",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 932,
+    "normal_word": "生菜",
+    "undercover_word": "猫",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 933,
+    "normal_word": "步步惊心",
+    "undercover_word": "蜘蛛侠",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 934,
+    "normal_word": "烤箱",
+    "undercover_word": "手机",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 935,
+    "normal_word": "帆船",
+    "undercover_word": "地铁",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 936,
+    "normal_word": "阿公阿婆",
+    "undercover_word": "阿家阿翁",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 937,
+    "normal_word": "猩猩",
+    "undercover_word": "乌龟",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 938,
+    "normal_word": "犀牛",
+    "undercover_word": "考拉",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 939,
+    "normal_word": "傲世轻物",
+    "undercover_word": "孤芳自赏",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 940,
+    "normal_word": "所向无敌",
+    "undercover_word": "无边无际",
+    "category": "成语",
+    "difficulty": 5
+  },
+  {
+    "id": 941,
+    "normal_word": "浴巾",
+    "undercover_word": "投影仪",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 942,
+    "normal_word": "崇山峻岭",
+    "undercover_word": "高山峻岭",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 943,
+    "normal_word": "公鸡",
+    "undercover_word": "熊猫",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 944,
+    "normal_word": "床单",
+    "undercover_word": "被子",
+    "category": "日常用品",
+    "difficulty": 1
+  },
+  {
+    "id": 945,
+    "normal_word": "搬弄是非",
+    "undercover_word": "挑拨是非",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 946,
+    "normal_word": "精打细算",
+    "undercover_word": "克勤克俭",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 947,
+    "normal_word": "玫瑰",
+    "undercover_word": "母鸡",
+    "category": "动物",
+    "difficulty": 4
+  },
+  {
+    "id": 948,
+    "normal_word": "书法家",
+    "undercover_word": "记者",
+    "category": "职业",
+    "difficulty": 4
+  },
+  {
+    "id": 949,
+    "normal_word": "网球",
+    "undercover_word": "壁球",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 950,
+    "normal_word": "苍蝇",
+    "undercover_word": "蚊子",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 951,
+    "normal_word": "蝴蝶",
+    "undercover_word": "鲨鱼",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 952,
+    "normal_word": "鳄鱼",
+    "undercover_word": "生菜",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 953,
+    "normal_word": "最炫民族风",
+    "undercover_word": "江南style",
+    "category": "文化娱乐",
+    "difficulty": 2
+  },
+  {
+    "id": 954,
+    "normal_word": "黑客",
+    "undercover_word": "演员",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 955,
+    "normal_word": "心跳",
+    "undercover_word": "语无伦次",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 956,
+    "normal_word": "高压锅",
+    "undercover_word": "电饭煲",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 957,
+    "normal_word": "火箭",
+    "undercover_word": "轿车",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 958,
+    "normal_word": "龙凤胎",
+    "undercover_word": "井底之蛙",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 959,
+    "normal_word": "拉丁舞",
+    "undercover_word": "乒乓球",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 960,
+    "normal_word": "光明正大",
+    "undercover_word": "光明磊落",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 961,
+    "normal_word": "宾客盈门",
+    "undercover_word": "高朋满座",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 962,
+    "normal_word": "洗衣粉",
+    "undercover_word": "皂角粉",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "id": 963,
+    "normal_word": "辣椒",
+    "undercover_word": "面条",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 964,
+    "normal_word": "面包",
+    "undercover_word": "油条",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 965,
+    "normal_word": "保镖",
+    "undercover_word": "飞行员",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 966,
+    "normal_word": "丑小鸭",
+    "undercover_word": "童话",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 967,
+    "normal_word": "公交车",
+    "undercover_word": "大巴",
+    "category": "交通工具",
+    "difficulty": 1
+  },
+  {
+    "id": 968,
+    "normal_word": "理屈词穷",
+    "undercover_word": "不得人心",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 969,
+    "normal_word": "漠不关心",
+    "undercover_word": "病民害国",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 970,
+    "normal_word": "浪子回头",
+    "undercover_word": "悬崖勒马",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 971,
+    "normal_word": "眼镜",
+    "undercover_word": "吹风机",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 972,
+    "normal_word": "红烧牛肉面",
+    "undercover_word": "咖啡",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 973,
+    "normal_word": "欺世盗名",
+    "undercover_word": "欢天喜地",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 974,
+    "normal_word": "弃暗投明",
+    "undercover_word": "不得人心",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 975,
+    "normal_word": "包子",
+    "undercover_word": "芥末",
+    "category": "食物",
+    "difficulty": 5
+  },
+  {
+    "id": 976,
+    "normal_word": "地铁",
+    "undercover_word": "公交",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 977,
+    "normal_word": "地铁",
+    "undercover_word": "火车",
+    "category": "交通工具",
+    "difficulty": 3
+  },
+  {
+    "id": 978,
+    "normal_word": "同心协力",
+    "undercover_word": "同心同德",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 979,
+    "normal_word": "长颈鹿",
+    "undercover_word": "蜥蜴",
+    "category": "动物",
+    "difficulty": 5
+  },
+  {
+    "id": 980,
+    "normal_word": "壁纸",
+    "undercover_word": "手机",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 981,
+    "normal_word": "光棍节",
+    "undercover_word": "词不达意",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 982,
+    "normal_word": "光棍节",
+    "undercover_word": "心跳",
+    "category": "抽象概念",
+    "difficulty": 4
+  },
+  {
+    "id": 983,
+    "normal_word": "言不由衷",
+    "undercover_word": "口是心非",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 984,
+    "normal_word": "手环",
+    "undercover_word": "手表",
+    "category": "日常用品",
+    "difficulty": 2
+  },
+  {
+    "id": 985,
+    "normal_word": "保安",
+    "undercover_word": "警察",
+    "category": "职业",
+    "difficulty": 2
+  },
+  {
+    "id": 986,
+    "normal_word": "冲浪",
+    "undercover_word": "帆板",
+    "category": "体育运动",
+    "difficulty": 3
+  },
+  {
+    "id": 987,
+    "normal_word": "未卜先知",
+    "undercover_word": "先见之明",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 988,
+    "normal_word": "壁纸",
+    "undercover_word": "纸巾",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 989,
+    "normal_word": "不顾一切",
+    "undercover_word": "一事无成",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 990,
+    "normal_word": "牙刷",
+    "undercover_word": "皂角粉",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 991,
+    "normal_word": "拳击",
+    "undercover_word": "跆拳道",
+    "category": "体育运动",
+    "difficulty": 4
+  },
+  {
+    "id": 992,
+    "normal_word": "电脑",
+    "undercover_word": "冰柜",
+    "category": "日常用品",
+    "difficulty": 5
+  },
+  {
+    "id": 993,
+    "normal_word": "饼干",
+    "undercover_word": "寿司",
+    "category": "食物",
+    "difficulty": 4
+  },
+  {
+    "id": 994,
+    "normal_word": "猫",
+    "undercover_word": "狗",
+    "category": "动物",
+    "difficulty": 3
+  },
+  {
+    "id": 995,
+    "normal_word": "瑜伽",
+    "undercover_word": "普拉提",
+    "category": "体育运动",
+    "difficulty": 1
+  },
+  {
+    "id": 996,
+    "normal_word": "动画",
+    "undercover_word": "红楼梦",
+    "category": "文化娱乐",
+    "difficulty": 5
+  },
+  {
+    "id": 997,
+    "normal_word": "飞行员",
+    "undercover_word": "音乐家",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 998,
+    "normal_word": "诗人",
+    "undercover_word": "审计师",
+    "category": "职业",
+    "difficulty": 5
+  },
+  {
+    "id": 999,
+    "normal_word": "得意扬扬",
+    "undercover_word": "得意洋洋",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 1000,
+    "normal_word": "导弹",
+    "undercover_word": "轮滑",
+    "category": "交通工具",
+    "difficulty": 4
+  },
+  {
+    "id": 1001,
+    "normal_word": "沸沸扬扬",
+    "undercover_word": "满城风雨",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 1002,
+    "normal_word": "荣华富贵",
+    "undercover_word": "金玉满堂",
+    "category": "成语",
+    "difficulty": 1
+  },
+  {
+    "id": 1003,
+    "normal_word": "全力以赴",
+    "undercover_word": "十面埋伏",
+    "category": "抽象概念",
+    "difficulty": 5
+  },
+  {
+    "id": 1004,
+    "normal_word": "朝三暮四",
+    "undercover_word": "见异思迁",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 1005,
+    "normal_word": "烘干机",
+    "undercover_word": "手机",
+    "category": "日常用品",
+    "difficulty": 4
+  },
+  {
+    "id": 1006,
+    "normal_word": "察言观色",
+    "undercover_word": "察颜观色",
+    "category": "成语",
+    "difficulty": 3
+  },
+  {
+    "id": 1007,
+    "normal_word": "日积月累",
+    "undercover_word": "阿公阿婆",
+    "category": "成语",
+    "difficulty": 4
+  },
+  {
+    "id": 1008,
+    "normal_word": "新年",
+    "undercover_word": "十面埋伏",
+    "category": "抽象概念",
+    "difficulty": 3
+  },
+  {
+    "id": 1009,
+    "normal_word": "唉声叹气",
+    "undercover_word": "哀声叹气",
+    "category": "成语",
+    "difficulty": 2
+  },
+  {
+    "id": 1010,
+    "normal_word": "雨衣",
+    "undercover_word": "吹风机",
+    "category": "日常用品",
+    "difficulty": 3
+  },
+  {
+    "normal_word": "画蛇添足",
+    "undercover_word": "多此一举",
+    "category": "成语",
+    "difficulty": 1,
+    "id": 1011
+  },
+  {
+    "normal_word": "守株待兔",
+    "undercover_word": "缘木求鱼",
+    "category": "成语",
+    "difficulty": 2,
+    "id": 1012
+  },
+  {
+    "normal_word": "亡羊补牢",
+    "undercover_word": "未雨绸缪",
+    "category": "成语",
+    "difficulty": 2,
+    "id": 1013
+  },
+  {
+    "normal_word": "杯弓蛇影",
+    "undercover_word": "草木皆兵",
+    "category": "成语",
+    "difficulty": 3,
+    "id": 1014
+  },
+  {
+    "normal_word": "盲人摸象",
+    "undercover_word": "管中窥豹",
+    "category": "成语",
+    "difficulty": 2,
+    "id": 1015
+  },
+  {
+    "normal_word": "米饭",
+    "undercover_word": "面条",
+    "category": "食物",
+    "difficulty": 1,
+    "id": 1016
+  },
+  {
+    "normal_word": "苹果",
+    "undercover_word": "香蕉",
+    "category": "食物",
+    "difficulty": 1,
+    "id": 1017
+  },
+  {
+    "normal_word": "汉堡",
+    "undercover_word": "披萨",
+    "category": "食物",
+    "difficulty": 1,
+    "id": 1018
+  },
+  {
+    "normal_word": "可乐",
+    "undercover_word": "雪碧",
+    "category": "食物",
+    "difficulty": 1,
+    "id": 1019
+  },
+  {
+    "normal_word": "火锅",
+    "undercover_word": "烧烤",
+    "category": "食物",
+    "difficulty": 1,
+    "id": 1020
+  },
+  {
+    "normal_word": "电影",
+    "undercover_word": "电视剧",
+    "category": "文化娱乐",
+    "difficulty": 1,
+    "id": 1021
+  },
+  {
+    "normal_word": "小说",
+    "undercover_word": "漫画",
+    "category": "文化娱乐",
+    "difficulty": 1,
+    "id": 1022
+  },
+  {
+    "normal_word": "音乐",
+    "undercover_word": "绘画",
+    "category": "文化娱乐",
+    "difficulty": 2,
+    "id": 1023
+  },
+  {
+    "normal_word": "游戏",
+    "undercover_word": "动漫",
+    "category": "文化娱乐",
+    "difficulty": 1,
+    "id": 1024
+  },
+  {
+    "normal_word": "相声",
+    "undercover_word": "小品",
+    "category": "文化娱乐",
+    "difficulty": 1,
+    "id": 1025
+  },
+  {
+    "normal_word": "汽车",
+    "undercover_word": "火车",
+    "category": "交通工具",
+    "difficulty": 1,
+    "id": 1026
+  },
+  {
+    "normal_word": "飞机",
+    "undercover_word": "轮船",
+    "category": "交通工具",
+    "difficulty": 1,
+    "id": 1027
+  },
+  {
+    "normal_word": "自行车",
+    "undercover_word": "摩托车",
+    "category": "交通工具",
+    "difficulty": 1,
+    "id": 1028
+  },
+  {
+    "normal_word": "地铁",
+    "undercover_word": "公交车",
+    "category": "交通工具",
+    "difficulty": 1,
+    "id": 1029
+  },
+  {
+    "normal_word": "出租车",
+    "undercover_word": "网约车",
+    "category": "交通工具",
+    "difficulty": 1,
+    "id": 1030
+  },
+  {
+    "normal_word": "手机",
+    "undercover_word": "电脑",
+    "category": "日常用品",
+    "difficulty": 1,
+    "id": 1031
+  },
+  {
+    "normal_word": "牙刷",
+    "undercover_word": "牙膏",
+    "category": "日常用品",
+    "difficulty": 1,
+    "id": 1032
+  },
+  {
+    "normal_word": "毛巾",
+    "undercover_word": "浴巾",
+    "category": "日常用品",
+    "difficulty": 1,
+    "id": 1033
+  },
+  {
+    "normal_word": "桌子",
+    "undercover_word": "椅子",
+    "category": "日常用品",
+    "difficulty": 1,
+    "id": 1034
+  },
+  {
+    "normal_word": "杯子",
+    "undercover_word": "碗",
+    "category": "日常用品",
+    "difficulty": 1,
+    "id": 1035
+  },
+  {
+    "normal_word": "老师",
+    "undercover_word": "医生",
+    "category": "职业",
+    "difficulty": 2,
+    "id": 1036
+  },
+  {
+    "normal_word": "警察",
+    "undercover_word": "消防员",
+    "category": "职业",
+    "difficulty": 2,
+    "id": 1037
+  },
+  {
+    "normal_word": "程序员",
+    "undercover_word": "设计师",
+    "category": "职业",
+    "difficulty": 2,
+    "id": 1038
+  },
+  {
+    "normal_word": "演员",
+    "undercover_word": "歌手",
+    "category": "职业",
+    "difficulty": 1,
+    "id": 1039
+  },
+  {
+    "normal_word": "律师",
+    "undercover_word": "法官",
+    "category": "职业",
+    "difficulty": 1,
+    "id": 1040
+  },
+  {
+    "normal_word": "爱情",
+    "undercover_word": "友情",
+    "category": "抽象概念",
+    "difficulty": 1,
+    "id": 1041
+  },
+  {
+    "normal_word": "快乐",
+    "undercover_word": "悲伤",
+    "category": "抽象概念",
+    "difficulty": 1,
+    "id": 1042
+  },
+  {
+    "normal_word": "自由",
+    "undercover_word": "束缚",
+    "category": "抽象概念",
+    "difficulty": 2,
+    "id": 1043
+  },
+  {
+    "normal_word": "梦想",
+    "undercover_word": "现实",
+    "category": "抽象概念",
+    "difficulty": 2,
+    "id": 1044
+  },
+  {
+    "normal_word": "时间",
+    "undercover_word": "空间",
+    "category": "抽象概念",
+    "difficulty": 2,
+    "id": 1045
+  },
+  {
+    "normal_word": "猫",
+    "undercover_word": "狗",
+    "category": "动物",
+    "difficulty": 1,
+    "id": 1046
+  },
+  {
+    "normal_word": "老虎",
+    "undercover_word": "狮子",
+    "category": "动物",
+    "difficulty": 1,
+    "id": 1047
+  },
+  {
+    "normal_word": "大象",
+    "undercover_word": "长颈鹿",
+    "category": "动物",
+    "difficulty": 2,
+    "id": 1048
+  },
+  {
+    "normal_word": "鱼",
+    "undercover_word": "鸟",
+    "category": "动物",
+    "difficulty": 2,
+    "id": 1049
+  },
+  {
+    "normal_word": "熊猫",
+    "undercover_word": "考拉",
+    "category": "动物",
+    "difficulty": 1,
+    "id": 1050
+  },
+  {
+    "normal_word": "足球",
+    "undercover_word": "篮球",
+    "category": "体育运动",
+    "difficulty": 1,
+    "id": 1051
+  },
+  {
+    "normal_word": "游泳",
+    "undercover_word": "跑步",
+    "category": "体育运动",
+    "difficulty": 1,
+    "id": 1052
+  },
+  {
+    "normal_word": "乒乓球",
+    "undercover_word": "羽毛球",
+    "category": "体育运动",
+    "difficulty": 1,
+    "id": 1053
+  },
+  {
+    "normal_word": "滑雪",
+    "undercover_word": "滑冰",
+    "category": "体育运动",
+    "difficulty": 1,
+    "id": 1054
+  },
+  {
+    "normal_word": "举重",
+    "undercover_word": "摔跤",
+    "category": "体育运动",
+    "difficulty": 2,
+    "id": 1055
   }
 ]

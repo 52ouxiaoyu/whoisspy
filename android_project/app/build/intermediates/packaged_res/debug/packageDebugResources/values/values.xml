@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="word_categories">
+        <item>全部</item>
+        <item>科技</item>
+        <item>食物</item>
+        <item>人物</item>
+        <item>动物</item>
+        <item>物品</item>
+        <item>地点</item>
+        <item>其他</item>
+    </string-array>
+    <color name="accent">#FF9800</color>
+    <color name="background">#F5F5F5</color>
+    <color name="black">#000000</color>
+    <color name="blue">#2196F3</color>
+    <color name="border">#E0E0E0</color>
+    <color name="civilian_color">@color/role_civilian</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="darkBackground">#121212</color>
+    <color name="darkSurface">#1E1E1E</color>
+    <color name="darkTextPrimary">#FFFFFF</color>
+    <color name="darkTextSecondary">#B3FFFFFF</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="error">@color/red</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF9800</color>
+    <color name="primary">#4CAF50</color>
+    <color name="primaryDark">#388E3C</color>
+    <color name="primaryLight">#A5D6A7</color>
+    <color name="primaryVariant">@color/primaryDark</color>
+    <color name="purple">#9C27B0</color>
+    <color name="red">#F44336</color>
+    <color name="role_civilian">#4CAF50</color>
+    <color name="role_spy">#F44336</color>
+    <color name="role_whiteboard">#9E9E9E</color>
+    <color name="secondary">@color/accent</color>
+    <color name="secondaryVariant">@color/accent</color>
+    <color name="spy_color">@color/role_spy</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteboard_color">@color/role_whiteboard</color>
+    <string name="about">关于</string>
+    <string name="about_message">谁是卧底 v1.0.0\n\n一款经典的聚会游戏，适合多人参与。\n\n© 2024 谁是卧底团队</string>
+    <string name="app_copyright">© 2024 谁是卧底团队</string>
+    <string name="app_name">谁是卧底</string>
+    <string name="app_slogan">欢乐聚会游戏</string>
+    <string name="app_version">版本 1.0.0</string>
+    <string name="civilian_win">平民胜利</string>
+    <string name="classic_mode">经典模式</string>
+    <string name="confirm">确定</string>
+    <string name="error_back_pressed">请使用游戏内按钮退出</string>
+    <string name="error_game_initialization">游戏初始化失败</string>
+    <string name="error_invalid_settings">游戏设置无效，请调整玩家数量</string>
+    <string name="error_process_round">处理回合结果失败</string>
+    <string name="error_vote_failed">投票失败</string>
+    <string name="finish_viewing">完成查看</string>
+    <string name="game_in_progress">游戏进行中</string>
+    <string name="game_mode">游戏模式</string>
+    <string name="game_over">游戏结束</string>
+    <string name="loading">加载中...</string>
+    <string name="new_game">新游戏</string>
+    <string name="next">下一步</string>
+    <string name="player_count">玩家数量</string>
+    <string name="player_eliminated">被淘汰</string>
+    <string name="player_list">玩家列表</string>
+    <string name="please_vote">请投票</string>
+    <string name="quick_start">快速开始</string>
+    <string name="role_civilian">平民</string>
+    <string name="role_spy">卧底</string>
+    <string name="role_whiteboard">白板</string>
+    <string name="speech_record">发言记录</string>
+    <string name="spy_count">卧底数量</string>
+    <string name="spy_win">卧底胜利</string>
+    <string name="start_game">开始游戏</string>
+    <string name="start_speech">开始发言</string>
+    <string name="start_vote">开始投票</string>
+    <string name="view_next">查看下一个</string>
+    <string name="waiting_votes">等待其他玩家投票...</string>
+    <string name="whiteboard_count">白板数量</string>
+    <string name="whiteboard_win">白板胜利</string>
+    <string name="word_category">词汇类别</string>
+    <string name="your_word">你的词汇</string>
+    <style name="ShapeAppearance.App.Card" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+    <style name="ShapeAppearance.App.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:statusBarColor">@color/primaryVariant</item>
+        <item name="android:navigationBarColor">@color/primaryVariant</item>
+    </style>
+    <style name="TextAppearance.App.AlertDialog.Body" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/textSecondary</item>
+    </style>
+    <style name="TextAppearance.App.AlertDialog.Title" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+    <style name="Theme.Base" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryVariant</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondaryVariant</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorError">@color/error</item>
+        
+        
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+        
+        
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        
+
+        
+        
+        <item name="materialButtonStyle">@style/Widget.App.Button.Primary</item>
+        
+
+        
+        
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.App.MaterialAlertDialog</item>
+    </style>
+    <style name="Theme.WhoIsSpy" parent="Theme.Base">
+        
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.WhoIsSpy.Dark" parent="Theme.Base">
+        <item name="android:colorBackground">@color/darkBackground</item>
+        <item name="colorSurface">@color/darkSurface</item>
+        <item name="android:textColorPrimary">@color/darkTextPrimary</item>
+        <item name="android:textColorSecondary">@color/darkTextSecondary</item>
+        <item name="android:windowBackground">@color/darkBackground</item>
+        <item name="android:statusBarColor">@color/primaryVariant</item>
+        <item name="android:navigationBarColor">@color/darkSurface</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+    <style name="ThemeOverlay.App.MaterialAlertDialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/TextAppearance.App.AlertDialog.Title</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/TextAppearance.App.AlertDialog.Body</item>
+    </style>
+    <style name="Widget.App.Button.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="android:minHeight">48dp</item>
+        <item name="android:paddingHorizontal">24dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.SmallComponent</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="Widget.App.Button.Secondary" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:minHeight">48dp</item>
+        <item name="android:paddingHorizontal">24dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.SmallComponent</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="Widget.App.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="shapeAppearance">@style/ShapeAppearance.App.Card</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/surface</item>
+        <item name="contentPadding">16dp</item>
+    </style>
+    <style name="WordCardStyle.Civilian" parent="Widget.App.Card">
+        <item name="cardBackgroundColor">@color/civilian_color</item>
+    </style>
+    <style name="WordCardStyle.Spy" parent="Widget.App.Card">
+        <item name="cardBackgroundColor">@color/spy_color</item>
+    </style>
+    <style name="WordCardStyle.Whiteboard" parent="Widget.App.Card">
+        <item name="cardBackgroundColor">@color/whiteboard_color</item>
+    </style>
+</resources>

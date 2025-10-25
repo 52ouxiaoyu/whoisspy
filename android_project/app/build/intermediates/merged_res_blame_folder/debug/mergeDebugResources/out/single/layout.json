@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-mergeDebugResources-38:/layout/item_player.xml",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/layout/item_player.xml"
+    },
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-mergeDebugResources-38:/layout/activity_game.xml",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/layout/activity_game.xml"
+    },
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-mergeDebugResources-38:/layout/activity_game_setup.xml",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/layout/activity_game_setup.xml"
+    },
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-mergeDebugResources-38:/layout/item_speech.xml",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/layout/item_speech.xml"
+    },
+    {
+        "merged": "com.example.whoisspy.app-mergeDebugResources-38:/layout/activity_game.xml",
+        "source": "com.example.whoisspy.app-main-41:/layout/activity_game.xml"
+    }
+]

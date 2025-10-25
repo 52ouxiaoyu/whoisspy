@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-debug-39:/layout_activity_game_setup.xml.flat",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/layout/activity_game_setup.xml"
+    },
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-debug-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-debug-39:/drawable_ic_player_dead.xml.flat",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/drawable/ic_player_dead.xml"
+    },
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-debug-39:/layout_item_speech.xml.flat",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/layout/item_speech.xml"
+    },
+    {
+        "merged": "com.example.whoisspy.app-debug-39:/layout_activity_game.xml.flat",
+        "source": "com.example.whoisspy.app-main-41:/layout/activity_game.xml"
+    },
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-debug-39:/drawable_ic_player_alive.xml.flat",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/drawable/ic_player_alive.xml"
+    },
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-debug-39:/layout_item_player.xml.flat",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/layout/item_player.xml"
+    },
+    {
+        "merged": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-debug-39:/layout_activity_game.xml.flat",
+        "source": "/Users/wujun/.gradle/daemon/8.4/com.example.whoisspy.app-main-41:/layout/activity_game.xml"
+    }
+]

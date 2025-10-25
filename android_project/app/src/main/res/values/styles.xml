@@ -1,0 +1,122 @@
+<resources>
+    <!-- 基础主题 -->
+    <style name="Theme.Base" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- 自定义颜色 -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryVariant</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondaryVariant</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorError">@color/error</item>
+        
+        <!-- 文本颜色 -->
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+        
+        <!-- 窗口设置 -->
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        
+
+        
+        <!-- 按钮样式 -->
+        <item name="materialButtonStyle">@style/Widget.App.Button.Primary</item>
+        
+
+        
+        <!-- 对话框样式 -->
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.App.MaterialAlertDialog</item>
+    </style>
+    
+    <!-- 启动界面主题 -->
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:statusBarColor">@color/primaryVariant</item>
+        <item name="android:navigationBarColor">@color/primaryVariant</item>
+    </style>
+    
+    <!-- 应用主题 -->
+    <style name="Theme.WhoIsSpy" parent="Theme.Base">
+        <!-- 自定义属性 -->
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    
+    <!-- 深色主题 -->
+    <style name="Theme.WhoIsSpy.Dark" parent="Theme.Base">
+        <item name="android:colorBackground">@color/darkBackground</item>
+        <item name="colorSurface">@color/darkSurface</item>
+        <item name="android:textColorPrimary">@color/darkTextPrimary</item>
+        <item name="android:textColorSecondary">@color/darkTextSecondary</item>
+        <item name="android:windowBackground">@color/darkBackground</item>
+        <item name="android:statusBarColor">@color/primaryVariant</item>
+        <item name="android:navigationBarColor">@color/darkSurface</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+    
+    <!-- 按钮样式 -->
+    <style name="Widget.App.Button.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="android:minHeight">48dp</item>
+        <item name="android:paddingHorizontal">24dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.SmallComponent</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    
+    <style name="Widget.App.Button.Secondary" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:minHeight">48dp</item>
+        <item name="android:paddingHorizontal">24dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.SmallComponent</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    
+    <!-- 卡片样式 -->
+    <style name="Widget.App.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="shapeAppearance">@style/ShapeAppearance.App.Card</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/surface</item>
+        <item name="contentPadding">16dp</item>
+    </style>
+    
+    <!-- 形状样式 -->
+    <style name="ShapeAppearance.App.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+    
+    <style name="ShapeAppearance.App.Card" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+    
+    <!-- 对话框主题 -->
+    <style name="ThemeOverlay.App.MaterialAlertDialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/TextAppearance.App.AlertDialog.Title</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/TextAppearance.App.AlertDialog.Body</item>
+    </style>
+    
+    <!-- 文本样式 -->
+    <style name="TextAppearance.App.AlertDialog.Title" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+    
+    <style name="TextAppearance.App.AlertDialog.Body" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/textSecondary</item>
+    </style>
+    
+    <!-- 词汇卡片样式 -->
+    <style name="WordCardStyle.Civilian" parent="Widget.App.Card">
+        <item name="cardBackgroundColor">@color/civilian_color</item>
+    </style>
+    
+    <style name="WordCardStyle.Spy" parent="Widget.App.Card">
+        <item name="cardBackgroundColor">@color/spy_color</item>
+    </style>
+    
+    <style name="WordCardStyle.Whiteboard" parent="Widget.App.Card">
+        <item name="cardBackgroundColor">@color/whiteboard_color</item>
+    </style>
+</resources>

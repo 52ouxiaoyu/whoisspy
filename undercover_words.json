@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "normal_word": "饺子",
+    "undercover_word": "馄饨",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "normal_word": "面包",
+    "undercover_word": "蛋糕",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "normal_word": "苹果",
+    "undercover_word": "梨",
+    "category": "食物",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "normal_word": "可乐",
+    "undercover_word": "雪碧",
+    "category": "饮品",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "normal_word": "牛奶",
+    "undercover_word": "豆浆",
+    "category": "饮品",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "normal_word": "篮球",
+    "undercover_word": "足球",
+    "category": "运动",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "normal_word": "羽毛球",
+    "undercover_word": "网球",
+    "category": "运动",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "normal_word": "猫",
+    "undercover_word": "老虎",
+    "category": "动物",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "normal_word": "狗",
+    "undercover_word": "狼",
+    "category": "动物",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "normal_word": "大象",
+    "undercover_word": "犀牛",
+    "category": "动物",
+    "difficulty": 1
+  }
+]

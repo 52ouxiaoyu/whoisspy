@@ -1,0 +1,76 @@
+<resources>
+    <!-- 应用名称相关 -->
+    <string name="app_name">谁是卧底</string>
+    <string name="app_slogan">欢乐聚会游戏</string>
+    <string name="app_version">版本 1.0.0</string>
+    <string name="app_copyright">© 2024 谁是卧底团队</string>
+
+    <!-- 启动界面 -->
+    <string name="loading">加载中...</string>
+
+    <!-- 主界面 -->
+    <string name="quick_start">快速开始</string>
+    <string name="classic_mode">经典模式</string>
+
+    <string name="about">关于</string>
+    <string name="about_message">谁是卧底 v1.0.0\n\n一款经典的聚会游戏，适合多人参与。\n\n© 2024 谁是卧底团队</string>
+
+    <!-- 游戏设置界面 -->
+    <string name="player_count">玩家数量</string>
+    <string name="spy_count">卧底数量</string>
+    <string name="whiteboard_count">白板数量</string>
+    <string name="game_mode">游戏模式</string>
+    <string name="word_category">词汇类别</string>
+
+    <string name="start_game">开始游戏</string>
+
+    <!-- 游戏界面 -->
+    <string name="game_in_progress">游戏进行中</string>
+    <string name="your_word">你的词汇</string>
+    <string name="player_list">玩家列表</string>
+    <string name="speech_record">发言记录</string>
+    <string name="please_vote">请投票</string>
+    <string name="next">下一步</string>
+    <string name="start_speech">开始发言</string>
+    <string name="start_vote">开始投票</string>
+    <string name="new_game">新游戏</string>
+    <string name="finish_viewing">完成查看</string>
+    <string name="view_next">查看下一个</string>
+
+    <string name="game_over">游戏结束</string>
+
+    <!-- 词汇类别数组 -->
+    <string-array name="word_categories">
+        <item>全部</item>
+        <item>科技</item>
+        <item>食物</item>
+        <item>人物</item>
+        <item>动物</item>
+        <item>物品</item>
+        <item>地点</item>
+        <item>其他</item>
+    </string-array>
+
+    <!-- 角色名称 -->
+    <string name="role_civilian">平民</string>
+    <string name="role_spy">卧底</string>
+    <string name="role_whiteboard">白板</string>
+
+    <!-- 游戏结果 -->
+    <string name="civilian_win">平民胜利</string>
+    <string name="spy_win">卧底胜利</string>
+    <string name="whiteboard_win">白板胜利</string>
+
+    <!-- 错误提示 -->
+    <string name="error_game_initialization">游戏初始化失败</string>
+    <string name="error_invalid_settings">游戏设置无效，请调整玩家数量</string>
+    <string name="error_vote_failed">投票失败</string>
+    <string name="error_process_round">处理回合结果失败</string>
+    <string name="error_back_pressed">请使用游戏内按钮退出</string>
+
+    <string name="confirm">确定</string>
+
+    <!-- 提示信息 -->
+    <string name="player_eliminated">被淘汰</string>
+    <string name="waiting_votes">等待其他玩家投票...</string>
+</resources>

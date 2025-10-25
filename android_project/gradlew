@@ -1,0 +1,154 @@
+#!/usr/bin/env bash
+
+##############################################################################
+# 真正的Gradle包装器脚本 - 用于构建Android APK
+##############################################################################
+
+# 设置错误时退出
+set -e
+
+# 定义变量
+APP_BASE_NAME=$(basename "$0")
+APP_HOME=$(cd "$(dirname "$0")" && pwd)
+GRADLE_VERSION="8.4"
+GRADLE_DIST_URL="https://services.gradle.org/distributions/gradle-${GRADLE_VERSION}-bin.zip"
+GRADLE_ZIP="gradle-${GRADLE_VERSION}-bin.zip"
+GRADLE_USER_HOME="$HOME/.gradle"
+GRADLE_WRAPPER_DIR="$GRADLE_USER_HOME/wrapper/dists/gradle-${GRADLE_VERSION}-bin"
+GRADLE_HOME="$GRADLE_WRAPPER_DIR/2ahq288yup5c86pi9438cgk0b"
+
+# 显示构建信息
+echo "===== Android项目构建 ====="
+echo "项目路径: $APP_HOME"
+echo "使用Gradle版本: $GRADLE_VERSION"
+
+# 检查Java环境
+if ! command -v java &> /dev/null; then
+    echo "❌ 错误: 未找到Java。请确保已安装JDK 11或17。"
+    exit 1
+fi
+
+JAVA_VERSION=$(java -version 2>&1 | head -1 | awk -F[\"_] '{print $2}')
+echo "✅ Java版本: $JAVA_VERSION"
+
+# 检查Android SDK
+SDK_PATH="/Users/wujun/Library/Android/sdk"
+if [ ! -d "$SDK_PATH" ]; then
+    echo "❌ 错误: Android SDK路径不存在: $SDK_PATH"
+    echo "请安装Android SDK并设置正确的路径"
+    exit 1
+fi
+echo "✅ Android SDK路径: $SDK_PATH"
+
+# 创建必要的目录
+mkdir -p "$APP_HOME/gradle/wrapper"
+mkdir -p "$GRADLE_WRAPPER_DIR"
+
+# 创建gradle-wrapper.properties
+cat > "$APP_HOME/gradle/wrapper/gradle-wrapper.properties" << EOF
+distributionBase=GRADLE_USER_HOME
+distributionPath=wrapper/dists
+distributionUrl=https\://services.gradle.org/distributions/gradle-${GRADLE_VERSION}-bin.zip
+zipStoreBase=GRADLE_USER_HOME
+zipStorePath=wrapper/dists
+EOF
+
+echo "✅ 已配置Gradle包装器"
+
+# 下载Gradle（如果需要）
+GRADLE_BIN_PATH=""
+
+# 检查是否已安装Gradle
+if [ -d "$GRADLE_WRAPPER_DIR" ]; then
+    # 查找实际的Gradle安装目录（处理随机生成的哈希目录名）
+    GRADLE_INSTALL_DIR=$(find "$GRADLE_WRAPPER_DIR" -name "gradle-${GRADLE_VERSION}" -type d 2>/dev/null || echo "")
+    if [ -n "$GRADLE_INSTALL_DIR" ] && [ -f "$GRADLE_INSTALL_DIR/bin/gradle" ]; then
+        GRADLE_BIN_PATH="$GRADLE_INSTALL_DIR/bin/gradle"
+    fi
+fi
+
+if [ -z "$GRADLE_BIN_PATH" ]; then
+    echo "📥 正在下载Gradle ${GRADLE_VERSION}..."
+    
+    # 下载Gradle zip
+    curl -s -L "$GRADLE_DIST_URL" -o "$APP_HOME/$GRADLE_ZIP"
+    
+    # 解压Gradle到临时目录
+    echo "🔄 正在解压Gradle..."
+    TEMP_GRADLE_DIR="$APP_HOME/temp_gradle"
+    mkdir -p "$TEMP_GRADLE_DIR"
+    unzip -q "$APP_HOME/$GRADLE_ZIP" -d "$TEMP_GRADLE_DIR"
+    
+    # 确保目标目录存在
+    mkdir -p "$GRADLE_WRAPPER_DIR"
+    
+    # 复制解压后的文件到目标位置
+    cp -r "$TEMP_GRADLE_DIR/gradle-${GRADLE_VERSION}" "$GRADLE_WRAPPER_DIR/"
+    
+    # 找到正确的Gradle二进制文件路径
+    GRADLE_BIN_PATH="$GRADLE_WRAPPER_DIR/gradle-${GRADLE_VERSION}/bin/gradle"
+    
+    # 清理
+    rm -rf "$TEMP_GRADLE_DIR" "$APP_HOME/$GRADLE_ZIP"
+    
+    echo "✅ Gradle ${GRADLE_VERSION}安装完成"
+else
+    echo "✅ Gradle ${GRADLE_VERSION}已存在"
+fi
+
+# 确保Gradle可执行
+if [ -f "$GRADLE_BIN_PATH" ]; then
+    chmod +x "$GRADLE_BIN_PATH"
+else
+    echo "❌ 错误: 找不到Gradle可执行文件"
+    exit 1
+fi
+
+# 设置环境变量
+export ANDROID_HOME="$SDK_PATH"
+export GRADLE_USER_HOME
+
+# 执行构建
+if [ "$1" == "assembleDebug" ]; then
+    echo "🔨 开始构建Debug版本APK..."
+    # 调用实际的Gradle执行构建
+    "$GRADLE_BIN_PATH" assembleDebug
+    
+    # 检查构建结果
+    if [ -f "$APP_HOME/app/build/outputs/apk/debug/app-debug.apk" ]; then
+        echo "✅ APK构建成功！"
+        echo "📁 APK文件位置: $APP_HOME/app/build/outputs/apk/debug/app-debug.apk"
+        echo "\n🚀 可以使用以下命令安装到设备:"
+        echo "   adb install $APP_HOME/app/build/outputs/apk/debug/app-debug.apk"
+    else
+        echo "❌ APK构建失败或文件不存在"
+        echo "请检查上面的构建错误信息"
+        exit 1
+    fi
+else
+    # 如果没有指定assembleDebug，执行用户提供的命令或显示帮助
+    if [ $# -eq 0 ]; then
+        echo "📋 可用命令:"
+        echo "   ./gradlew assembleDebug - 构建Debug版本APK"
+        echo "   ./gradlew assembleRelease - 构建Release版本APK"
+        echo "   ./gradlew clean - 清理构建缓存"
+        echo "   ./gradlew tasks - 列出所有任务"
+        
+        # 演示构建流程
+        echo "\n🔨 执行演示构建流程..."
+        mkdir -p "$APP_HOME/app/build/outputs/apk/debug"
+        
+        # 创建演示APK信息文件
+        echo "构建演示完成！" > "$APP_HOME/app/build/outputs/apk/debug/build_demo.txt"
+        echo "要构建真正的APK，请运行: ./gradlew assembleDebug" > "$APP_HOME/app/build/outputs/apk/debug/README.txt"
+        
+        echo "✅ 演示完成。请运行 './gradlew assembleDebug' 构建真实APK。"
+    else
+        # 执行用户指定的Gradle命令
+        echo "🔨 执行Gradle命令: $@"
+        "$GRADLE_BIN_PATH" "$@"
+    fi
+fi
+
+# 显示完成信息
+echo "\n🎉 构建流程完成！"

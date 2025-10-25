@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题颜色 -->
+    <color name="primary">#4CAF50</color>
+    <color name="primaryDark">#388E3C</color>
+    <color name="primaryLight">#A5D6A7</color>
+    <color name="accent">#FF9800</color>
+
+    <color name="primaryVariant">@color/primaryDark</color>
+    <color name="secondary">@color/accent</color>
+    <color name="secondaryVariant">@color/accent</color>
+    <color name="error">@color/red</color>
+
+    <color name="darkBackground">#121212</color>
+    <color name="darkSurface">#1E1E1E</color>
+    <color name="darkTextPrimary">#FFFFFF</color>
+    <color name="darkTextSecondary">#B3FFFFFF</color>
+
+    
+    <!-- 背景颜色 -->
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    
+    <!-- 文字颜色 -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- 状态颜色 -->
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#FF9800</color>
+    <color name="blue">#2196F3</color>
+    <color name="purple">#9C27B0</color>
+    
+    <!-- 角色颜色 -->
+    <color name="role_civilian">#4CAF50</color>
+    <color name="role_spy">#F44336</color>
+    <color name="role_whiteboard">#9E9E9E</color>
+
+    <color name="civilian_color">@color/role_civilian</color>
+    <color name="spy_color">@color/role_spy</color>
+    <color name="whiteboard_color">@color/role_whiteboard</color>
+
+    
+    <!-- 边框和分割线 -->
+    <color name="border">#E0E0E0</color>
+    <color name="divider">#EEEEEE</color>
+    
+    <!-- 兼容旧的颜色名称 -->
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#FF9800</color>
+</resources>
